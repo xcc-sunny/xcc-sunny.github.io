@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mechatronics on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/mechatronics/</link>
+    <description>Recent content in Mechatronics on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on 2019-11 · Yujie HE &amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/mechatronics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching Assistant in Open Source Hardware and Programming</title>
+      <link>https://yujie-he.github.io/project/2019-tongji-ta/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2019-tongji-ta/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; from &lt;em&gt;Sep. 2018 - Jan. 2019&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Assisted first-year students major in Industrial Design to get started Arduino Hardware and Programming&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Designed a series of the electromechanical module to give three lessons on basic mechanical analysis and design and gave a lecture on advanced RGBD sensors including Microsoft Kinect and Intel Realsense for the semester project&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following video is &lt;strong&gt;Mechatronics Module Experiments&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;645&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/gTo2n-7T-Ao&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIAN Racing Formula Student Electric Team</title>
+      <link>https://yujie-he.github.io/project/2018-dian-racing/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-dian-racing/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Powertrain Group Leader&lt;/strong&gt; from &lt;em&gt;Sep. 2016 - Dec. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designed and optimized the overall powertrain system, including motor invertor, high-voltage accumulators, wheel-side planetary gearbox, and matching cooling system, to ensure China&amp;rsquo;s first leading four-wheel-drive Formula Student Racecar, with an 8% efficiency, 10% lightweight, and higher stability improvement&lt;/li&gt;
+&lt;li&gt;Participated FSEC 2016 - 2018 and SFJ 2018 as a senior engineer, DIAN Racing won first place in Engineering Design and Efficiency Prize, and Best Powertrain Award for two consecutive years.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following video is &lt;strong&gt;virtual assembly of DRe18&lt;/strong&gt;，which was what I worked for as Powertrain Group Leader.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;645&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/bWmHDvBw1qw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;./design-report-FSEC19.jpg&#34; alt=&#34;design-report-FSEC19&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Design Report Final @ FSEC19&lt;/strong&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super Power Robot Team</title>
+      <link>https://yujie-he.github.io/project/2018-super-power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-super-power/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Project Manager &amp;amp; Mechanical Development Leader&lt;/strong&gt; from &lt;em&gt;Oct. 2016 - Jun. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designed two main robots to participate international shooting competition, RoboMaster, achieving stability of the chassis and 3DOF pan-tilt mechanism and constructing multi-robot interaction&lt;/li&gt;
+&lt;li&gt;Optimized structural design to enhance operation stability and achieve lightweight, enabling the robots flexible operation and combating under complicated circumstances&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

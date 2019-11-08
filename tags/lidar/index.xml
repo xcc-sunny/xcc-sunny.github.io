@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LiDAR on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/lidar/</link>
+    <description>Recent content in LiDAR on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on 2019-11 · Yujie HE &amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/lidar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SLAM and Autonomous Navigation for Skid Steer Wheel Robot</title>
+      <link>https://yujie-he.github.io/project/2018-hesai-internship/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-hesai-internship/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Robotics Algorithm Development Intern&lt;/strong&gt; from &lt;em&gt;Jul. 2018 - Aug. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented sensor fusion between Pandar40 (a 40-channel LiDAR) and gyroscope to achieve 5% accuracy improvements on top of state-of-the-art SLAM framework, LOAM, and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
+&lt;li&gt;Deployed control, decision, and communication algorithms for a self-developed skid steer wheel robot, realizing autonomous navigation and obstacle avoidance in a $ 300 m^2 $ workspace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./indoor-slam.jpg&#34; alt=&#34;indoor-slam-result&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Indoor SLAM @ Hesai&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./algorithm-debugging.jpg&#34; alt=&#34;algorithm-debugging&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Debugging the robot&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./jiading-campus-satellite-map.png&#34; alt=&#34;jiading-campus-satellite-map&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Jiading Campus Satellite Map&lt;/strong&gt; corresponding to the map generated from Pandar40 &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

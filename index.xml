@@ -85,29 +85,110 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://yujie-he.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Teaching Assistant in Open Source Hardware and Programming</title>
+      <link>https://yujie-he.github.io/project/2019-tongji-ta/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yujie-he.github.io/project/external-project/</guid>
-      <description></description>
+      <guid>https://yujie-he.github.io/project/2019-tongji-ta/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; from &lt;em&gt;Sep. 2018 - Jan. 2019&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Assisted first-year students major in Industrial Design to get started Arduino Hardware and Programming&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Designed a series of the electromechanical module to give three lessons on basic mechanical analysis and design and gave a lecture on advanced RGBD sensors including Microsoft Kinect and Intel Realsense for the semester project&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following video is &lt;strong&gt;Mechatronics Module Experiments&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;645&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/gTo2n-7T-Ao&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Internal Project</title>
-      <link>https://yujie-he.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>DIAN Racing Formula Student Electric Team</title>
+      <link>https://yujie-he.github.io/project/2018-dian-racing/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yujie-he.github.io/project/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>https://yujie-he.github.io/project/2018-dian-racing/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Powertrain Group Leader&lt;/strong&gt; from &lt;em&gt;Sep. 2016 - Dec. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and optimized the overall powertrain system, including motor invertor, high-voltage accumulators, wheel-side planetary gearbox, and matching cooling system, to ensure China&amp;rsquo;s first leading four-wheel-drive Formula Student Racecar, with an 8% efficiency, 10% lightweight, and higher stability improvement&lt;/li&gt;
+&lt;li&gt;Participated FSEC 2016 - 2018 and SFJ 2018 as a senior engineer, DIAN Racing won first place in Engineering Design and Efficiency Prize, and Best Powertrain Award for two consecutive years.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;The following video is &lt;strong&gt;virtual assembly of DRe18&lt;/strong&gt;，which was what I worked for as Powertrain Group Leader.&lt;/p&gt;
 
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;iframe width=&#34;645&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/bWmHDvBw1qw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;./design-report-FSEC19.jpg&#34; alt=&#34;design-report-FSEC19&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Design Report Final @ FSEC19&lt;/strong&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SLAM and Autonomous Navigation for Skid Steer Wheel Robot</title>
+      <link>https://yujie-he.github.io/project/2018-hesai-internship/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-hesai-internship/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Robotics Algorithm Development Intern&lt;/strong&gt; from &lt;em&gt;Jul. 2018 - Aug. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented sensor fusion between Pandar40 (a 40-channel LiDAR) and gyroscope to achieve 5% accuracy improvements on top of state-of-the-art SLAM framework, LOAM, and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
+&lt;li&gt;Deployed control, decision, and communication algorithms for a self-developed skid steer wheel robot, realizing autonomous navigation and obstacle avoidance in a $ 300 m^2 $ workspace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./indoor-slam.jpg&#34; alt=&#34;indoor-slam-result&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Indoor SLAM @ Hesai&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./algorithm-debugging.jpg&#34; alt=&#34;algorithm-debugging&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Debugging the robot&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./jiading-campus-satellite-map.png&#34; alt=&#34;jiading-campus-satellite-map&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Jiading Campus Satellite Map&lt;/strong&gt; corresponding to the map generated from Pandar40 &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super Power Robot Team</title>
+      <link>https://yujie-he.github.io/project/2018-super-power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-super-power/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Project Manager &amp;amp; Mechanical Development Leader&lt;/strong&gt; from &lt;em&gt;Oct. 2016 - Jun. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designed two main robots to participate international shooting competition, RoboMaster, achieving stability of the chassis and 3DOF pan-tilt mechanism and constructing multi-robot interaction&lt;/li&gt;
+&lt;li&gt;Optimized structural design to enhance operation stability and achieve lightweight, enabling the robots flexible operation and combating under complicated circumstances&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
