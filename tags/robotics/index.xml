@@ -23,7 +23,7 @@
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Implemented sensor fusion between Pandar40 (a 40-channel LiDAR) and gyroscope to achieve 5% accuracy improvements on top of state-of-the-art SLAM framework, LOAM, and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
+&lt;li&gt;Implemented sensor fusion between Pandar40 (a 40-channel LiDAR) and gyroscope and achieved a 5% accuracy improvements on top of state-of-the-art SLAM framework and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
 &lt;li&gt;Deployed control, decision, and communication algorithms for a self-developed skid steer wheel robot, realizing autonomous navigation and obstacle avoidance in a $ 300 m^2 $ workspace&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -59,8 +59,8 @@
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Designed two main robots to participate international shooting competition, RoboMaster, achieving stability of the chassis and 3DOF pan-tilt mechanism and constructing multi-robot interaction&lt;/li&gt;
-&lt;li&gt;Optimized structural design to enhance operation stability and achieve lightweight, enabling the robots flexible operation and combating under complicated circumstances&lt;/li&gt;
+&lt;li&gt;Designed two main robots to participate in national mobile robot competition, RoboMaster, achieving lightweight and stability of the chassis and 3DOF pan-tilt mechanism and multi-robot interaction&lt;/li&gt;
+&lt;li&gt;Optimized structural design to enhance operation stability and achieve lightweight, enable the robots flexible operation and combating under complicated circumstances&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
