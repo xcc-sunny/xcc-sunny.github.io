@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on 2019-11 · Yujie HE &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -81,6 +81,38 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust multi-kernelized correlators for UAV tracking with adaptive context analysis and dynamic weighted filters</title>
+      <link>https://yujie-he.github.io/publication/2019_mkct_ncaa/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2019_mkct_ncaa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Main structure of the proposed tracking approach&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sample Purification-Aware Correlation Filters for UAV Tracking with Cooperative Deep Features</title>
+      <link>https://yujie-he.github.io/publication/2019_spcf_irosw/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2019_spcf_irosw/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SPCF_comp&#34; /&gt;
+&lt;small&gt;Comparison between traditional CF-based and proposed SPCF tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     

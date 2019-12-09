@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weijiang Xiong on YUJIE HE</title>
+    <link>https://yujie-he.github.io/authors/weijiang-xiong/</link>
+    <description>Recent content in Weijiang Xiong on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on 2019-11 · Yujie HE &amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/authors/weijiang-xiong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Robust multi-kernelized correlators for UAV tracking with adaptive context analysis and dynamic weighted filters</title>
+      <link>https://yujie-he.github.io/publication/2019_mkct_ncaa/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2019_mkct_ncaa/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+&lt;small&gt;Main structure of the proposed tracking approach&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

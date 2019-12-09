@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fan Li on YUJIE HE</title>
+    <link>https://yujie-he.github.io/authors/fan-li/</link>
+    <description>Recent content in Fan Li on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on 2019-11 · Yujie HE &amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/authors/fan-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample Purification-Aware Correlation Filters for UAV Tracking with Cooperative Deep Features</title>
+      <link>https://yujie-he.github.io/publication/2019_spcf_irosw/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2019_spcf_irosw/</guid>
+      <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SPCF_comp&#34; /&gt;
+&lt;small&gt;Comparison between traditional CF-based and proposed SPCF tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
