@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Robust multi-kernelized correlators for UAV tracking with adaptive context analysis and dynamic weighted filters</title>
+      <title>Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters</title>
       <link>https://yujie-he.github.io/publication/2019_mkct_ncaa/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -28,9 +28,54 @@
     </item>
     
     <item>
+      <title>TOT: Target-oriented UAV Tracking via Multi-feature Inconsistency Mining</title>
+      <link>https://yujie-he.github.io/publication/2020_tot_preprint/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2020_tot_preprint/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;TOT&#34; /&gt;
+&lt;small&gt;The visualization of maximum values on different feature response maps.&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking</title>
+      <link>https://yujie-he.github.io/publication/2020_bicf_preprint/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2020_bicf_preprint/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BiCF_comp&#34; /&gt;
+&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tri-Attention Correlation Filter for Effective UAV Object Tracking</title>
+      <link>https://yujie-he.github.io/publication/2020_tacf_preprint/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2020_tacf_preprint/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;TACF_workflow&#34; /&gt;
+&lt;small&gt;The overview of TACF tracker&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sample Purification-Aware Correlation Filters for UAV Tracking with Cooperative Deep Features</title>
       <link>https://yujie-he.github.io/publication/2019_spcf_irosw/</link>
-      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/publication/2019_spcf_irosw/</guid>
       <description>&lt;hr /&gt;
