@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on YUJIE HE</title>
+    <link>https://yujie-he.github.io/post/</link>
+    <description>Recent content in Posts on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Dec. 2019 · Yujie HE &amp;copy; Oct. 2019</copyright>
+    <lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IROS 2019</title>
+      <link>https://yujie-he.github.io/post/19-11-iros/</link>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/post/19-11-iros/</guid>
+      <description>&lt;p&gt;First time to participate the top robotics conference&amp;mdash;IEEE/RSJ International Conference on Intelligent Robots and Systems (&lt;a href=&#34;https://www.iros2019.org/&#34; target=&#34;_blank&#34;&gt;IROS 2019&lt;/a&gt;) held on Nov. 4 – 8, 2019 in Macau, China.&lt;/p&gt;
+
+&lt;p&gt;Feel very lucky to talk to the experts, professors, and my fellows!&lt;/p&gt;
+
+&lt;p&gt;Our paper &amp;lsquo;Sample Purification-Aware Correlation Filters for UAV Tracking with Cooperative Deep Features&amp;rsquo; is accepted by the &lt;a href=&#34;http://www.robomai.com/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Workshop on Fast Neural Perception and Learning for Intelligent Vehicles and Robotics&lt;/strong&gt;&lt;/a&gt; and won the &lt;strong&gt;Best Poster Award&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;For more details, please refer to &lt;a href=&#34;https://yujie-he.github.io/publication/2019_spcf_irosw/&#34; target=&#34;_blank&#34;&gt;SPCF&lt;/a&gt;!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./Best_Poster_Award.png&#34; alt=&#34;Best_Poster_Award&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Best paper Award @ workshop&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.licdn.cn/dms/image/C5122AQG32cWGrSn6PQ/feedshare-shrink_1280/0?e=1579132800&amp;amp;v=beta&amp;amp;t=18c7ltUDFbV8k3OLooQMm_zcWzWKNNlRMKMtt90CcGA&#34; alt=&#34;IROS&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;My first time to attend IROS2019 @ Macau&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://media.licdn.cn/dms/image/C5122AQG55FDTtcTyPQ/feedshare-shrink_2048_1536/0?e=1579132800&amp;amp;v=beta&amp;amp;t=QtgkGH1xUXjemrQ3UEbf5WVUad9FIm0XWVy_g4rp4xk&#34; alt=&#34;Keynote&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; Keynote by &lt;em&gt;Davide Scaramuzza&lt;/em&gt; covering Autonomous Drones Event Cameras &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

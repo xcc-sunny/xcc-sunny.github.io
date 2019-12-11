@@ -120,6 +120,23 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/post/19-11-iros/</loc>
+    <lastmod>2019-11-04T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/post/</loc>
+    <lastmod>2019-11-04T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/conference/</loc>
+    <lastmod>2019-11-04T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/tags/attention-mechanisms/</loc>
     <lastmod>2019-09-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
