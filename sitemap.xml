@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yujie-he.github.io/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://yujie-he.github.io/courses/2019-system-modeling-and-design/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://yujie-he.github.io/courses/2019-deep-learning/</loc>
+    <lastmod>2019-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://yujie-he.github.io/courses/2019-matlab/</loc>
+    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -276,7 +276,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/courses/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
