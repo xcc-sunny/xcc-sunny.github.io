@@ -6,14 +6,26 @@
     <description>Recent content in Posts on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Dec. 2019 · Yujie HE &amp;copy; Oct. 2019</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0800</lastBuildDate>
+    <copyright>Last updated on Jan. 7, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Mon, 06 Jan 2020 12:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>19-11 Our paper SPCF won the Best Poster Award in the IROS Workshop!</title>
+      <title>2020-01 Our paper MKCT to appear at Neural Computing and Applications.</title>
+      <link>https://yujie-he.github.io/post/20-01-ncaa/</link>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/post/20-01-ncaa/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://yujie-he.github.io/publication/2020_mkct_ncaa/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters&lt;/em&gt;&lt;/a&gt; is accepted by the journal of &lt;strong&gt;Neural Computing and Applications&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;It is my first time to publish a regular paper as the first student author. More details will be released soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2019-11 Our paper SPCF won the Best Poster Award in the IROS Workshop.</title>
       <link>https://yujie-he.github.io/post/19-11-iros/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0800</pubDate>
       

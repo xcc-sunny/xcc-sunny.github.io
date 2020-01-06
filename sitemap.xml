@@ -18,6 +18,35 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/post/20-01-ncaa/</loc>
+    <lastmod>2020-01-06T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/post/</loc>
+    <lastmod>2020-01-06T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/</loc>
+    <lastmod>2020-01-06T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/</loc>
+    <lastmod>2020-01-06T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/journal/</loc>
+    <lastmod>2020-01-06T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/publication_types/2/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -71,14 +100,8 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/publication/2019_mkct_ncaa/</loc>
+    <loc>https://yujie-he.github.io/publication/2020_mkct_ncaa/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/</loc>
-    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -95,12 +118,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/authors/weijiang-xiong/</loc>
-    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -137,12 +154,6 @@
   <url>
     <loc>https://yujie-he.github.io/post/19-11-iros/</loc>
     <lastmod>2019-11-04T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/post/</loc>
-    <lastmod>2019-11-04T12:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
