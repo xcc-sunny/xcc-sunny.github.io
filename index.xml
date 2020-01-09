@@ -7,10 +7,47 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Jan. 7, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Overview</title>
+      <link>https://yujie-he.github.io/study/2019-deep-learning/final_project/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/study/2019-deep-learning/final_project/</guid>
+      <description>
+
+&lt;h3 id=&#34;final-project&#34;&gt;Final Project&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;💥Online Viewer: &lt;a href=&#34;https://nbviewer.jupyter.org/github/hibetterheyj/tju_deep_learning/blob/master/final_project/HYJ_DL_0108.ipynb&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;jupyter notebook for final project&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Title&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Enhanced 3D Zonal Segmentation of the Prostate on MRI via Enhanced Weight-Standardization and GroupNorm&lt;/p&gt;
+
+&lt;p&gt;基于的Weight-Standardization和GroupNorm的三维前列腺MRI区块分割&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this final project, I utilized Weight Standardization (WS) as well as GroupNorm to accelerate neural networks training and improve overall segmentation results for 3D Zonal Segmentation of the Prostate on MRI images. WS is targeted at the micro-batch training setting where each GPU typically has only 1-2 images for training. The quantitative experiments have shown that UWG-Net can outperform the performances of 3D U-Net (baseline) with BN trained with small batch sizes with only two more lines of code. The effectiveness of WS is verified on the open-source Prostate Dataset, including 22 training cases and 10 testing cases.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://yujie-he.github.io/img/tju_dl_project_result.png&#34; alt=&#34;Quantitative experiments on Prostate Dataset&#34; /&gt;
+&lt;small&gt;Quantitative experiments on Prostate Dataset. &lt;font color=&#34;red&#34;&gt;Red&lt;/font&gt;, &lt;font color=&#34;green&#34;&gt;green&lt;/font&gt;, and &lt;font color=&#34;blue&#34;&gt;blue&lt;/font&gt; fonts denote the first, second, and third best performance among all models. &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jan. 2020: Our paper MKCT to appear at Neural Computing and Applications.</title>
