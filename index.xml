@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Jan. 7, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Overview</title>
       <link>https://yujie-he.github.io/study/2019-deep-learning/final_project/</link>
-      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/study/2019-deep-learning/final_project/</guid>
       <description>
@@ -42,7 +42,7 @@
 
 &lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://yujie-he.github.io/img/tju_dl_project_result.png&#34; alt=&#34;Quantitative experiments on Prostate Dataset&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;https://yujie-he.github.io/img/study/tju_dl_project_result.png&#34; alt=&#34;Quantitative experiments on Prostate Dataset&#34; /&gt;
 &lt;small&gt;Quantitative experiments on Prostate Dataset. &lt;font color=&#34;red&#34;&gt;Red&lt;/font&gt;, &lt;font color=&#34;green&#34;&gt;green&lt;/font&gt;, and &lt;font color=&#34;blue&#34;&gt;blue&lt;/font&gt; fonts denote the first, second, and third best performance among all models. &lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
