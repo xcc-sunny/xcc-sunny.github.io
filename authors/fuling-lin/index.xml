@@ -7,10 +7,25 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Jan, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/fuling-lin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking</title>
+      <link>https://yujie-he.github.io/publication/2020_bicf_icra/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2020_bicf_icra/</guid>
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BiCF_comp&#34; /&gt;
+&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters</title>
@@ -37,21 +52,6 @@
 
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;TOT&#34; /&gt;
 &lt;small&gt;The visualization of maximum values on different feature response maps.&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking</title>
-      <link>https://yujie-he.github.io/publication/2020_bicf_preprint/</link>
-      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020_bicf_preprint/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BiCF_comp&#34; /&gt;
-&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 </description>

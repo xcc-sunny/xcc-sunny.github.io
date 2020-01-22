@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Jan, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 12:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>journal</title>
       <link>https://yujie-he.github.io/tags/journal/</link>
-      <pubDate>Mon, 06 Jan 2020 12:00:00 +0800</pubDate>
+      <pubDate>Wed, 22 Jan 2020 12:00:00 +0800</pubDate>
       
       <guid>https://yujie-he.github.io/tags/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned aerial vehicles</title>
+      <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicles/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/unmanned-aerial-vehicles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual tracking</title>
+      <link>https://yujie-he.github.io/tags/visual-tracking/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     
@@ -45,24 +63,6 @@
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/multi-kernelized-correlators/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned aerial vehicles</title>
-      <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicles/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/unmanned-aerial-vehicles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visual tracking</title>
-      <link>https://yujie-he.github.io/tags/visual-tracking/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/visual-tracking/</guid>
       <description></description>
     </item>
     
