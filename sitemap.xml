@@ -23,6 +23,12 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/tags/icra/</loc>
+    <lastmod>2020-01-22T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/post/20-01-bicf/</loc>
     <lastmod>2020-01-22T12:00:00+08:00</lastmod>
   </url>
@@ -46,7 +52,7 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/journal/</loc>
+    <loc>https://yujie-he.github.io/tags/conference/</loc>
     <lastmod>2020-01-22T12:00:00+08:00</lastmod>
     <priority>0</priority>
   </url>
@@ -127,6 +133,12 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/tags/journal/</loc>
+    <lastmod>2020-01-06T12:00:00+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/publication_types/2/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -185,14 +197,14 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/post/19-11-iros/</loc>
+    <loc>https://yujie-he.github.io/tags/iros/</loc>
     <lastmod>2019-11-04T12:00:00+08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/conference/</loc>
+    <loc>https://yujie-he.github.io/post/19-11-iros/</loc>
     <lastmod>2019-11-04T12:00:00+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>journal</title>
-      <link>https://yujie-he.github.io/tags/journal/</link>
+      <title>ICRA</title>
+      <link>https://yujie-he.github.io/tags/icra/</link>
       <pubDate>Wed, 22 Jan 2020 12:00:00 +0800</pubDate>
       
-      <guid>https://yujie-he.github.io/tags/journal/</guid>
+      <guid>https://yujie-he.github.io/tags/icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>conference</title>
+      <link>https://yujie-he.github.io/tags/conference/</link>
+      <pubDate>Wed, 22 Jan 2020 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/conference/</guid>
       <description></description>
     </item>
     
@@ -36,6 +45,15 @@
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/visual-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journal</title>
+      <link>https://yujie-he.github.io/tags/journal/</link>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/journal/</guid>
       <description></description>
     </item>
     
@@ -76,11 +94,11 @@
     </item>
     
     <item>
-      <title>conference</title>
-      <link>https://yujie-he.github.io/tags/conference/</link>
+      <title>IROS</title>
+      <link>https://yujie-he.github.io/tags/iros/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0800</pubDate>
       
-      <guid>https://yujie-he.github.io/tags/conference/</guid>
+      <guid>https://yujie-he.github.io/tags/iros/</guid>
       <description></description>
     </item>
     
