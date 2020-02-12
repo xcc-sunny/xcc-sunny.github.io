@@ -33,12 +33,27 @@
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/publication/2020_mkct_ncaa/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
 &lt;small&gt;Main structure of the proposed tracking approach&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-TeX&#34;&gt;@article{Fu2020NCAA,
+  title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+  author={Changhong Fu, Yujie He, Fuling Lin, and Weijiang Xiong},
+  journal={Neural Computing and Applications},
+  year={2020},
+  pages= {1-17}
+ }
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
