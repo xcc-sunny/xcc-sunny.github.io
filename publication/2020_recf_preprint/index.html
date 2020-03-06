@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="The high eﬃciency of correlation ﬁlter (CF) based trackers has led to the widespread development of online unmanned aerial vehicle (UAV) object tracking. This kind of method can eﬀectively train a ﬁlter to discriminate the target from the background using limited samples. When utilizing historical information, most methods assume a ﬁxed label function over all the previous samples. The assumption can easily lead to over-ﬁtting and ﬁlter degradation, especially in complex drone scenarios. To address this problem, we propose a novel response reasoning for correlation ﬁler learning (ReCF), which can leverage temporal information in ﬁlter training and signiﬁcantly promote the robustness of the tracker. The proposed response reasoning approach goes beyond the conventional response consistency assumption and constructs an auxiliary label of the current sample. The proposed method helps learn a generic relationship between the previous and current ﬁlters, which can realize self-regulated ﬁlter updating and enhance the discriminability of the ﬁlter. Extensive experiments on three well-known UAV tracking benchmarks, i.e., UAV123@10fps, DTB70, and UAVDT, show that our method yields superior results with real-time performance on a single CPU, which can be eﬀectively applied to UAV online tracking tasks.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://yujie-he.github.io/tags/scale-estimation/">
+  <link rel="alternate" hreflang="en-us" href="https://yujie-he.github.io/publication/2020_recf_preprint/">
 
   
 
@@ -91,15 +91,12 @@
   
 
   
-  <link rel="alternate" href="/tags/scale-estimation/index.xml" type="application/rss+xml" title="YUJIE HE">
-  <link rel="feed" href="/tags/scale-estimation/index.xml" type="application/rss+xml" title="YUJIE HE">
-  
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://yujie-he.github.io/tags/scale-estimation/">
+  <link rel="canonical" href="https://yujie-he.github.io/publication/2020_recf_preprint/">
 
   
   
@@ -113,12 +110,14 @@
   <meta property="twitter:creator" content="@Hibetterhyj">
   
   <meta property="og:site_name" content="YUJIE HE">
-  <meta property="og:url" content="https://yujie-he.github.io/tags/scale-estimation/">
-  <meta property="og:title" content="Scale estimation | YUJIE HE">
-  <meta property="og:description" content=""><meta property="og:image" content="https://yujie-he.github.io/img/avatar.jpg">
+  <meta property="og:url" content="https://yujie-he.github.io/publication/2020_recf_preprint/">
+  <meta property="og:title" content="ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking | YUJIE HE">
+  <meta property="og:description" content="The high eﬃciency of correlation ﬁlter (CF) based trackers has led to the widespread development of online unmanned aerial vehicle (UAV) object tracking. This kind of method can eﬀectively train a ﬁlter to discriminate the target from the background using limited samples. When utilizing historical information, most methods assume a ﬁxed label function over all the previous samples. The assumption can easily lead to over-ﬁtting and ﬁlter degradation, especially in complex drone scenarios. To address this problem, we propose a novel response reasoning for correlation ﬁler learning (ReCF), which can leverage temporal information in ﬁlter training and signiﬁcantly promote the robustness of the tracker. The proposed response reasoning approach goes beyond the conventional response consistency assumption and constructs an auxiliary label of the current sample. The proposed method helps learn a generic relationship between the previous and current ﬁlters, which can realize self-regulated ﬁlter updating and enhance the discriminability of the ﬁlter. Extensive experiments on three well-known UAV tracking benchmarks, i.e., UAV123@10fps, DTB70, and UAVDT, show that our method yields superior results with real-time performance on a single CPU, which can be eﬀectively applied to UAV online tracking tasks."><meta property="og:image" content="https://yujie-he.github.io/publication/2020_recf_preprint/featured.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="og:updated_time" content="2020-03-02T12:00:00&#43;00:00">
+  <meta property="article:published_time" content="2020-03-06T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2020-03-06T00:00:00&#43;00:00">
   
 
   
@@ -130,7 +129,7 @@
 
 
 
-  <title>Scale estimation | YUJIE HE</title>
+  <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking | YUJIE HE</title>
 
 </head>
 
@@ -453,54 +452,295 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
   
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1 itemprop="name">ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</h1>
+
+  
+
+  
+    
+
+
+
+<meta content="2020-03-06 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2020-03-06 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/fuling-lin/">Fuling Lin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/changhong-fu/">Changhong Fu*</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/yujie-he/">Yujie He</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/weijiang-xiong/">Weijiang Xiong</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    <time>2020-03-06</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://yujie-he.github.io/publication/2020_recf_preprint/&amp;text=ReCF:%20Exploiting%20Response%20Reasoning%20for%20Correlation%20Filters%20in%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://yujie-he.github.io/publication/2020_recf_preprint/&amp;t=ReCF:%20Exploiting%20Response%20Reasoning%20for%20Correlation%20Filters%20in%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook-f"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=ReCF:%20Exploiting%20Response%20Reasoning%20for%20Correlation%20Filters%20in%20Real-Time%20UAV%20Tracking&amp;body=https://yujie-he.github.io/publication/2020_recf_preprint/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://yujie-he.github.io/publication/2020_recf_preprint/&amp;title=ReCF:%20Exploiting%20Response%20Reasoning%20for%20Correlation%20Filters%20in%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=ReCF:%20Exploiting%20Response%20Reasoning%20for%20Correlation%20Filters%20in%20Real-Time%20UAV%20Tracking%20https://yujie-he.github.io/publication/2020_recf_preprint/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://yujie-he.github.io/publication/2020_recf_preprint/&amp;title=ReCF:%20Exploiting%20Response%20Reasoning%20for%20Correlation%20Filters%20in%20Real-Time%20UAV%20Tracking" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">The high eﬃciency of correlation ﬁlter (CF) based trackers has led to the widespread development of online unmanned aerial vehicle (UAV) object tracking. This kind of method can eﬀectively train a ﬁlter to discriminate the target from the background using limited samples. When utilizing historical information, most methods assume a ﬁxed label function over all the previous samples. The assumption can easily lead to over-ﬁtting and ﬁlter degradation, especially in complex drone scenarios. To address this problem, we propose a novel response reasoning for correlation ﬁler learning (ReCF), which can leverage temporal information in ﬁlter training and signiﬁcantly promote the robustness of the tracker. The proposed response reasoning approach goes beyond the conventional response consistency assumption and constructs an auxiliary label of the current sample. The proposed method helps learn a generic relationship between the previous and current ﬁlters, which can realize self-regulated ﬁlter updating and enhance the discriminability of the ﬁlter. Extensive experiments on three well-known UAV tracking benchmarks, i.e., UAV123@10fps, DTB70, and UAVDT, show that our method yields superior results with real-time performance on a single CPU, which can be eﬀectively applied to UAV online tracking tasks.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#3">
+              Preprint
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Submitted to the European Conference on Computer Vision (ECCV), 2020.</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p><center></p>
+
+<p><img src="featured.png" alt="ReCF_comparison" />
+<small>Overlap comparison between ReCF and SRDCF (baseline) on the sequence <em>person11</em> from UAV123@10fps dataset</small></p>
+
+<p></center></p>
+</div>
+
+    
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/real-time-uav-tracking/">Real-time UAV tracking</a>
+  
+  <a class="badge badge-light" href="/tags/discriminative-correlation-filter/">Discriminative correlation filter</a>
+  
+  <a class="badge badge-light" href="/tags/response-reasoning/">Response reasoning</a>
+  
+</div>
+
+
+    
+
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Scale estimation</h1>
-
   
 
-  
-</div>
 
 
 
-<div class="universal-wrapper">
-  
 
   
   
-  <div>
-    <h2><a href="/publication/2020_resl_preprint/">ReSL: Rethinking Scale Learning in Correlation Filters for Real-time UAV Tracking</a></h2>
-    <div class="article-style">
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/authors/fuling-lin/"></a></h5>
       
-      To be updated!
       
+      <ul class="network-icon" aria-hidden="true">
+        
+      </ul>
     </div>
   </div>
-  
 
-  
 
+
+
+  </div>
 </div>
+
+
 
       
 

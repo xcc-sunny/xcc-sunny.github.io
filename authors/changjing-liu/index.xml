@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Mar, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/changjing-liu/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,17 +15,15 @@
     <item>
       <title>ReSL: Rethinking Scale Learning in Correlation Filters for Real-time UAV Tracking</title>
       <link>https://yujie-he.github.io/publication/2020_resl_preprint/</link>
-      <pubDate>Mon, 02 Mar 2020 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/publication/2020_resl_preprint/</guid>
-      <description>&lt;!--
-&lt;center&gt;
+      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-![TACF_workflow](featured.png)
-&lt;small&gt;The overview of TACF tracker&lt;/small&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;ReSL_workflow&#34; /&gt;
+&lt;small&gt;A comparison between aspect adaptive trackers&lt;/small&gt;&lt;/p&gt;
 
-&lt;/center&gt;
---&gt;
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     
