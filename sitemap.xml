@@ -244,6 +244,12 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/tags/in-progress/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/project/2020-tracking4uav/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
   </url>
@@ -274,6 +280,12 @@
   <url>
     <loc>https://yujie-he.github.io/project/2019-dl-mip/</loc>
     <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/finished/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Finished😊 on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/finished/</link>
+    <description>Recent content in Finished😊 on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Apr, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/finished/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Zonal Segmentation of the Prostate MRI (Deep Learning Final Project)</title>
+      <link>https://yujie-he.github.io/project/2019-dl-mip/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2019-dl-mip/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Personal final project for TJ-100685 深度学习 | Deep learning (Elective Course)&lt;/strong&gt; from &lt;em&gt;Sep. 2019 - Jan. 2020&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Utilized the latest &lt;strong&gt;Weight Standardization&lt;/strong&gt;}** (WS) as well as &lt;strong&gt;GroupNorm&lt;/strong&gt; to accelerate neural networks training from scratch for 3D Zonal Segmentation of the &lt;strong&gt;Prostate MRI images&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Conducted extensive evaluation between the proposed UWG-Net with the baseline with &lt;strong&gt;small batch sizes&lt;/strong&gt;, achieving 2-3\% increase in &lt;strong&gt;multi-class segmentation accuracy&lt;/strong&gt; for medical imaging application.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more info, you can refer to this &lt;a href=&#34;https://yujie-he.github.io/study/2019-deep-learning/final_project/&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt; !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Teaching Assistant in Open Source Hardware and Programming</title>
+      <link>https://yujie-he.github.io/project/2019-tongji-ta/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2019-tongji-ta/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; from &lt;em&gt;Sep. 2018 - Jan. 2019&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Assisted first-year students major in Industrial Design to get started Arduino Hardware and Programming&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Designed a series of the electromechanical modules for Industrial Design students&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gave lectures on basic mechanical principle with Arduino hardware and programming and advanced RGBD sensors for the semester project&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following video is &lt;strong&gt;Mechatronics Module Experiments&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;645&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/gTo2n-7T-Ao&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIAN Racing Formula Student Electric Team</title>
+      <link>https://yujie-he.github.io/project/2018-dian-racing/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-dian-racing/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Powertrain Group Leader&lt;/strong&gt; from &lt;em&gt;Sep. 2016 - Dec. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designed and optimized the overall powertrain system to ensure China&amp;rsquo;s first leading four-wheel-drive Formula Student Racecar, achieving an 8\% efficiency and 10\% lightweight improvement&lt;/li&gt;
+&lt;li&gt;Participated FSEC 2017 - 2018 and SFJ 2018 as Chief Powertrain Engineer, contributing to DIAN Racing‘s win in first place in Engineering Design and Efficiency Prize, and Best Powertrain Award from 2017 to 2018&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The following video is &lt;strong&gt;virtual assembly of DRe18&lt;/strong&gt;，which was what I worked for as Powertrain Group Leader.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;645&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/bWmHDvBw1qw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&#34;./design-report-FSEC19.jpg&#34; alt=&#34;design-report-FSEC19&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Design Report Final @ FSEC19&lt;/strong&gt;&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SLAM and Autonomous Navigation for Skid Steer Wheel Robot</title>
+      <link>https://yujie-he.github.io/project/2018-hesai-internship/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-hesai-internship/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Robotics Algorithm Development Intern&lt;/strong&gt; from &lt;em&gt;Jul. 2018 - Aug. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented sensor fusion between Pandar40 (a 40-channel LiDAR) and gyroscope and achieved a 5% accuracy improvements on top of state-of-the-art SLAM framework and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
+&lt;li&gt;Deployed control, decision, and communication algorithms for a self-developed skid steer wheel robot, realizing autonomous navigation and obstacle avoidance in a $ 300 m^2 $ workspace&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./indoor-slam.jpg&#34; alt=&#34;indoor-slam-result&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Indoor SLAM @ Hesai&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./algorithm-debugging.jpg&#34; alt=&#34;algorithm-debugging&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Debugging the robot&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./jiading-campus-satellite-map.png&#34; alt=&#34;jiading-campus-satellite-map&#34; /&gt;
+&lt;small&gt; &lt;strong&gt;Jiading Campus Satellite Map&lt;/strong&gt; corresponding to the map generated from Pandar40 &lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super Power Robot Team</title>
+      <link>https://yujie-he.github.io/project/2018-super-power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2018-super-power/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Project Manager &amp;amp; Mechanical Development Leader&lt;/strong&gt; from &lt;em&gt;Oct. 2016 - Jun. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Designed two main robots to participate in national mobile robot competition, RoboMaster, achieving lightweight and stability of the chassis and 3DOF pan-tilt mechanism and multi-robot interaction&lt;/li&gt;
+&lt;li&gt;Optimized structural design to enhance operation stability and achieve lightweight, enable the robots flexible operation and combating under complicated circumstances&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
