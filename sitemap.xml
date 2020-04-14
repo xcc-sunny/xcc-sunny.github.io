@@ -232,6 +232,35 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/tags/computer-vision/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/2020-tracking4uav/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/robotics/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/tags/multi-feature-inconsistency-mining/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -240,6 +269,11 @@
   <url>
     <loc>https://yujie-he.github.io/publication/2020_tot_preprint/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/2019-dl-mip/</loc>
+    <lastmod>2020-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -311,20 +345,8 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/project/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/project/2019-tongji-ta/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/computer-vision/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -340,12 +362,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/racecar/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/robotics/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

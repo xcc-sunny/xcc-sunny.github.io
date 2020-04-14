@@ -139,6 +139,31 @@
     </item>
     
     <item>
+      <title>Online Collaborative Learning for Multiple UAVs in Complex Environment</title>
+      <link>https://yujie-he.github.io/project/2020-tracking4uav/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2020-tracking4uav/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Undergrad Research Assistant&lt;/strong&gt; from &lt;em&gt;Sep. 2019 - Jan. 2020&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Investigated correlation filter (CF)-based &lt;strong&gt;visual object tracking&lt;/strong&gt; for unmanned aerial vehicles. By applying &lt;strong&gt;machine learning &amp;amp; deep learning&lt;/strong&gt; techniques, we have improved the existing trackers on overall tracking performance in challenging scenarios with real-time operational capability. Related work has been published in journals and conferences.&lt;/li&gt;
+&lt;li&gt;Employed the adaptive &lt;strong&gt;GMSD-based context analysis&lt;/strong&gt; and &lt;strong&gt;dynamic weighted filters&lt;/strong&gt; for utilizing both contextual and historical information, and leveraged &lt;strong&gt;lightweight convolution features&lt;/strong&gt; to efficiently raise the tracking robustness (accepted by &lt;em&gt;Neural Computing and Applications&lt;/em&gt; as &lt;strong&gt;first-student author&lt;/strong&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;👉  &lt;a href=&#34;../../publication/2020_mkct_ncaa/&#34;&gt;Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Exploited the inter-frame information between prediction and backtracking phases for further incorporating the &lt;strong&gt;bidirectional incongruity error&lt;/strong&gt; into the CF learning  (accepted by &lt;em&gt;ICRA 2020&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;👉 &lt;a href=&#34;../../publication/2020_bicf_icra/&#34;&gt;BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>TOT: Target-oriented UAV Tracking via Multi-feature Inconsistency Mining</title>
       <link>https://yujie-he.github.io/publication/2020_tot_preprint/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
@@ -150,6 +175,26 @@
 &lt;small&gt;The visualization of maximum values on different feature response maps.&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Zonal Segmentation of the Prostate MRI (Deep Learning Final Project)</title>
+      <link>https://yujie-he.github.io/project/2019-dl-mip/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2019-dl-mip/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Personal final project for TJ-100685 深度学习 | Deep learning (Elective Course)&lt;/strong&gt; from &lt;em&gt;Sep. 2019 - Jan. 2020&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Utilized the latest &lt;strong&gt;Weight Standardization&lt;/strong&gt;}** (WS) as well as &lt;strong&gt;GroupNorm&lt;/strong&gt; to accelerate neural networks training from scratch for 3D Zonal Segmentation of the &lt;strong&gt;Prostate MRI images&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Conducted extensive evaluation between the proposed UWG-Net with the baseline with &lt;strong&gt;small batch sizes&lt;/strong&gt;, achieving 2-3\% increase in &lt;strong&gt;multi-class segmentation accuracy&lt;/strong&gt; for medical imaging application.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For more info, you can refer to this &lt;a href=&#34;https://yujie-he.github.io/study/2019-deep-learning/final_project/&#34; target=&#34;_blank&#34;&gt;page&lt;/a&gt; !&lt;/p&gt;
 </description>
     </item>
     
