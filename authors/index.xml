@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on May, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Changhong Fu</title>
       <link>https://yujie-he.github.io/authors/changhong-fu/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/changhong-fu/</guid>
       <description></description>
@@ -24,45 +24,9 @@
     <item>
       <title>Fuling Lin</title>
       <link>https://yujie-he.github.io/authors/fuling-lin/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/fuling-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weijiang Xiong</title>
-      <link>https://yujie-he.github.io/authors/weijiang-xiong/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/weijiang-xiong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yujie He</title>
-      <link>https://yujie-he.github.io/authors/yujie-he/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/yujie-he/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Changjing Liu</title>
-      <link>https://yujie-he.github.io/authors/changjing-liu/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/changjing-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fan Li</title>
-      <link>https://yujie-he.github.io/authors/fan-li/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/fan-li/</guid>
       <description></description>
     </item>
     
@@ -85,20 +49,11 @@
     </item>
     
     <item>
-      <title>Junjie Ye</title>
-      <link>https://yujie-he.github.io/authors/junjie-ye/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <title>Yujie He</title>
+      <link>https://yujie-he.github.io/authors/yujie-he/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://yujie-he.github.io/authors/junjie-ye/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juntao Xu</title>
-      <link>https://yujie-he.github.io/authors/juntao-xu/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/juntao-xu/</guid>
+      <guid>https://yujie-he.github.io/authors/yujie-he/</guid>
       <description></description>
     </item>
     
@@ -117,6 +72,24 @@
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/qian-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weijiang Xiong</title>
+      <link>https://yujie-he.github.io/authors/weijiang-xiong/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/weijiang-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fan Li</title>
+      <link>https://yujie-he.github.io/authors/fan-li/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/fan-li/</guid>
       <description></description>
     </item>
     

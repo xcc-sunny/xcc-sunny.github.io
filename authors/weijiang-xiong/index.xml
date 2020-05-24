@@ -7,25 +7,10 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on May, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/weijiang-xiong/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
-      <link>https://yujie-he.github.io/publication/2020_recf_preprint/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020_recf_preprint/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;ReCF_comparison&#34; /&gt;
-&lt;small&gt;Overlap comparison between ReCF and SRDCF (baseline) on the sequence &lt;em&gt;person11&lt;/em&gt; from UAV123@10fps dataset&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters</title>

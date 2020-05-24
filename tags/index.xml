@@ -7,46 +7,10 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on May, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Discriminative correlation filter</title>
-      <link>https://yujie-he.github.io/tags/discriminative-correlation-filter/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/discriminative-correlation-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-time UAV tracking</title>
-      <link>https://yujie-he.github.io/tags/real-time-uav-tracking/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/real-time-uav-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Response reasoning</title>
-      <link>https://yujie-he.github.io/tags/response-reasoning/</link>
-      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/response-reasoning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scale adaptability</title>
-      <link>https://yujie-he.github.io/tags/scale-adaptability/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/scale-adaptability/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Attention mechanisms</title>
@@ -72,15 +36,6 @@
       <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/visual-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Response inconsistency</title>
-      <link>https://yujie-he.github.io/tags/response-inconsistency/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/response-inconsistency/</guid>
       <description></description>
     </item>
     
@@ -135,15 +90,6 @@
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-feature Inconsistency Mining</title>
-      <link>https://yujie-he.github.io/tags/multi-feature-inconsistency-mining/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/multi-feature-inconsistency-mining/</guid>
       <description></description>
     </item>
     
