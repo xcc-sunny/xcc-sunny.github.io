@@ -58,15 +58,6 @@
     </item>
     
     <item>
-      <title>Computer Vision</title>
-      <link>https://yujie-he.github.io/tags/computer-vision/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Learning</title>
       <link>https://yujie-he.github.io/tags/deep-learning/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
@@ -81,6 +72,15 @@
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/in-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Vision</title>
+      <link>https://yujie-he.github.io/tags/machine-vision/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
       <description></description>
     </item>
     

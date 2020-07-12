@@ -151,12 +151,6 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/computer-vision/</loc>
-    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/tags/deep-learning/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -164,6 +158,12 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/in-progress/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/machine-vision/</loc>
     <lastmod>2020-01-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
