@@ -13,18 +13,27 @@
     
     
     <item>
-      <title>Online Collaborative Learning for Multiple UAVs in Complex Environment</title>
+      <title>Online Visual Object Tracking for UAV in Dynamic Environments</title>
       <link>https://yujie-he.github.io/project/2020-tracking4uav/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/project/2020-tracking4uav/</guid>
-      <description>&lt;blockquote&gt;
+      <description>
+
+&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Undergraduate Research Assistant&lt;/strong&gt; since &lt;em&gt;Sep. 2018&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 
 &lt;p&gt;Investigated correlation filter (CF)-based &lt;strong&gt;visual object tracking&lt;/strong&gt; for unmanned aerial vehicles. By applying &lt;strong&gt;machine learning &amp;amp; deep learning&lt;/strong&gt; techniques, we have improved the existing trackers on overall tracking performance in challenging scenarios with real-time operational capability.&lt;/p&gt;
 
 &lt;hr /&gt;
+
+&lt;h2 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h2&gt;
 
 &lt;p&gt;Related work has been published in journals and conferences as follows:&lt;/p&gt;
 
@@ -41,6 +50,12 @@
 
 &lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_bicf_icra/&#34;&gt;&lt;em&gt;BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2020&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    For more info, please refer to my &lt;a href=&#34;https://www.youtube.com/channel/UCGpK01NL0j3RkXpsODXm-Dg&#34; target=&#34;_blank&#34;&gt;YouTube channel&lt;/a&gt; and &lt;a href=&#34;https://github.com/hibetterheyj&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
