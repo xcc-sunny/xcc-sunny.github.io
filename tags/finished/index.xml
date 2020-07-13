@@ -19,7 +19,7 @@
       
       <guid>https://yujie-he.github.io/project/2019-dl-mip/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Personal final project for TJ-100685 深度学习 | Deep learning (Elective Course)&lt;/strong&gt; from &lt;em&gt;Sep. 2019 - Jan. 2020&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Final project for TJ-100685 深度学习 | Deep learning&lt;/strong&gt;, &lt;em&gt;Sep. 2019 - Jan. 2020&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -39,7 +39,7 @@
       
       <guid>https://yujie-he.github.io/project/2019-tongji-ta/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt; from &lt;em&gt;Sep. 2018 - Jan. 2019&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant&lt;/strong&gt;, &lt;em&gt;Sep. 2018 - Jan. 2019&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -67,7 +67,7 @@
       
       <guid>https://yujie-he.github.io/project/2018-dian-racing/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Powertrain Group Leader&lt;/strong&gt; from &lt;em&gt;Sep. 2016 - Dec. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Powertrain Group Leader&lt;/strong&gt;, &lt;em&gt;Sep. 2016 - Dec. 2018&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
@@ -96,30 +96,45 @@
       
       <guid>https://yujie-he.github.io/project/2018-hesai-internship/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Robotics Algorithm Development Intern&lt;/strong&gt; from &lt;em&gt;Jul. 2018 - Aug. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Robotics Algorithm Development Intern&lt;/strong&gt;, &lt;em&gt;Jul. 2018 - Aug. 2018&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Implemented sensor fusion between Pandar40 (a 40-channel LiDAR) and gyroscope and achieved a 5% accuracy improvements on top of state-of-the-art SLAM framework and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
+&lt;li&gt;Implemented sensor fusion between a 40-channel LiDAR, i.e., &lt;a href=&#34;https://www.hesaitech.com/pandora.html/Pandar40&#34; target=&#34;_blank&#34;&gt;Pandar40&lt;/a&gt; and gyroscope and achieved a 5% accuracy improvements on top of state-of-the-art SLAM framework and drew a 3D point cloud map of Tongji University Jiading Campus below 10m&lt;/li&gt;
 &lt;li&gt;Deployed control, decision, and communication algorithms for a self-developed skid steer wheel robot, realizing autonomous navigation and obstacle avoidance in a $ 300 m^2 $ workspace&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
+&lt;p&gt;Examples of final mapping results can be seen as follows:&lt;/p&gt;
+
 &lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./indoor-slam.jpg&#34; alt=&#34;indoor-slam-result&#34; /&gt;
-&lt;small&gt; &lt;strong&gt;Indoor SLAM @ Hesai&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./tongjiFront_optimize.gif&#34; alt=&#34;tongjiFront_optimize&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./KWG_optimize.gif&#34; alt=&#34;KWG_optimize&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./algorithm-debugging.jpg&#34; alt=&#34;algorithm-debugging&#34; /&gt;
-&lt;small&gt; &lt;strong&gt;Debugging the robot&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;
+  &lt;strong&gt;Pointcloud demo of Tongji Jiading Campus Demo&lt;/br&gt;
+  👉 &lt;a href=&#34;https://goo.gl/maps/ygsUXZUryBs2RFw2A&#34; target=&#34;_blank&#34;&gt;Corresponding satellite map from Google map&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+  Up: &lt;strong&gt;Main Gate&lt;/strong&gt;, Down: &lt;strong&gt;Kaiwu Building&lt;/strong&gt;
+ &lt;/small&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./jiading-campus-satellite-map.png&#34; alt=&#34;jiading-campus-satellite-map&#34; /&gt;
-&lt;small&gt; &lt;strong&gt;Jiading Campus Satellite Map&lt;/strong&gt; corresponding to the map generated from Pandar40 &lt;/small&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;😀 Miscellaneous pictures:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./indoor-slam.jpg&#34; alt=&#34;indoor-slam-result&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; &lt;strong&gt;Indoor SLAM @ Hesai Tech&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./SSWR.jpg&#34; alt=&#34;algorithm-debugging&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt; &lt;strong&gt;Skid Steer Wheel Robot equipped with Pandar40 LiDAR&lt;/strong&gt;&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 </description>
@@ -132,7 +147,7 @@
       
       <guid>https://yujie-he.github.io/project/2018-super-power/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Project Manager &amp;amp; Mechanical Development Leader&lt;/strong&gt; from &lt;em&gt;Oct. 2016 - Jun. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Manager &amp;amp; Mechanical Development Leader&lt;/strong&gt;, &lt;em&gt;Oct. 2016 - Jun. 2018&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;ul&gt;
