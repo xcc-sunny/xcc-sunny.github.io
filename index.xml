@@ -55,12 +55,27 @@
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/publication/2020_tacf_iros/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+      <description>
 
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;TACF&#34; /&gt;
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;TACF&#34; /&gt;
 &lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
+	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+	year={2020},
+	pages={1-8}
+ }
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -117,12 +132,27 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/publication/2020_bicf_icra/</guid>
-      <description>&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BiCF_comp&#34; /&gt;
 &lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
+	title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+	pages={2365-2371},
+	year={2020}
+}
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
@@ -189,13 +219,13 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
 
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-TeX&#34;&gt;@article{Fu2020NCAA,
-  title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
-  author={Changhong Fu, Yujie He, Fuling Lin, and Weijiang Xiong},
-  journal={Neural Computing and Applications},
-  year={2020},
-  pages= {1-17}
- }
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
+	title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+	author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
+	journal={Neural Computing and Applications},
+	pages={1-17},
+	year={2020}
+}
 &lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
