@@ -6,8 +6,8 @@
     <description>Recent content in Fuling Lin on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Aug, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Sep, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/fuling-lin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,15 +15,35 @@
     <item>
       <title>Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters</title>
       <link>https://yujie-he.github.io/publication/2020_tacf_iros/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/publication/2020_tacf_iros/</guid>
       <description>
 
+&lt;!--
+![TACF](featured.jpg)
+&lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;
+--&gt;
+
+&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Presentation&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;TACF&#34; /&gt;
-&lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XlFgz8h4dts&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tracking results demo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4IWKLmRoS38&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
