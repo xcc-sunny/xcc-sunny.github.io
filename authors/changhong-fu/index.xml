@@ -7,10 +7,44 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Oct, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
+      <link>https://yujie-he.github.io/publication/2020-ibri-tgrs/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2020-ibri-tgrs/</guid>
+      <description>&lt;!--
+
+&lt;center&gt;
+
+![BiCF_comp](featured.png)
+&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;
+
+&lt;/center&gt;
+
+### Reference
+
+If you find this project is useful, you may cite it as:
+
+```tex
+@article{Lin2020TCSVT,
+	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+	pages={1-14},
+	year={2020}
+}
+
+```
+
+--&gt;
+</description>
+    </item>
     
     <item>
       <title>Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking</title>

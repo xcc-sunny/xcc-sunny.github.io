@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Oct, 2020 · Yujie HE &amp;copy; 2019 - 2020</copyright>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Changhong Fu</title>
       <link>https://yujie-he.github.io/authors/changhong-fu/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/changhong-fu/</guid>
       <description></description>
@@ -24,9 +24,36 @@
     <item>
       <title>Fuling Lin</title>
       <link>https://yujie-he.github.io/authors/fuling-lin/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/fuling-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junjie Ye</title>
+      <link>https://yujie-he.github.io/authors/junjie-ye/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/junjie-ye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juntao Xu</title>
+      <link>https://yujie-he.github.io/authors/juntao-xu/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/juntao-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yujie He</title>
+      <link>https://yujie-he.github.io/authors/yujie-he/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/yujie-he/</guid>
       <description></description>
     </item>
     
@@ -45,15 +72,6 @@
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/qian-tang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yujie He</title>
-      <link>https://yujie-he.github.io/authors/yujie-he/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/yujie-he/</guid>
       <description></description>
     </item>
     

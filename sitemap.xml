@@ -24,36 +24,100 @@
   
   <url>
     <loc>https://yujie-he.github.io/publication_types/2/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/aerial-video-analysis/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <loc>https://yujie-he.github.io/tags/aerial-object-tracking/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yujie-he.github.io/authors/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yujie-he.github.io/authors/changhong-fu/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yujie-he.github.io/tags/discriminative-correlation-filter/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/publication/2020-ibri-tgrs/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/disruptor-aware-bucketing/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yujie-he.github.io/authors/fuling-lin/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/interval-based-response-inconsistency/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/junjie-ye/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/juntao-xu/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/publication_types/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/publication/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/yujie-he/</loc>
+    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/aerial-video-analysis/</loc>
     <lastmod>2020-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -70,24 +134,7 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/publication_types/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/publication/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/authors/qian-tang/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/</loc>
     <lastmod>2020-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -106,18 +153,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/visual-object-tracking/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/</loc>
-    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/authors/yujie-he/</loc>
     <lastmod>2020-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
