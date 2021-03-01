@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simultaneous localization and mapping on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/simultaneous-localization-and-mapping/</link>
+    <description>Recent content in Simultaneous localization and mapping on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Mar, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/simultaneous-localization-and-mapping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square</title>
+      <link>https://yujie-he.github.io/publication/2021_mulls_icra/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2021_mulls_icra/</guid>
+      <description>
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MULLS&#34; /&gt;
+&lt;small&gt;Pipeline of the multi-metric linear least square ICP&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;demo&#34;&gt;Demo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/85bGD55e3-0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;details open&gt;
+  &lt;summary&gt;&lt;b&gt;KITTI results&lt;/b&gt;&lt;/summary&gt;
+&lt;div&gt;
+  &lt;img src=&#34;https://github.com/YuePanEdward/MULLS/raw/main/assets/kitti_00_show.jpg&#34; alt=&#34;kitti_00_show&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/YuePanEdward/MULLS/raw/main/assets/kitti_01_show.jpg&#34; alt=&#34;kitti_01_show&#34; /&gt;
+&lt;/div&gt;
+&lt;/details&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Pan2021ICRA,
+  title={{MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square}},
+  author={Pan, Yue and Xiao, Pengchuan and He, Yujie and Shao, Zhenlei and Li, Zesong},
+  booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2021},
+  pages={1-8}
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
