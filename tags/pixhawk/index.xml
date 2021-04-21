@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pixhawk on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/pixhawk/</link>
+    <description>Recent content in Pixhawk on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/pixhawk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of vision based algorithms to a window/balcony drone delivery</title>
+      <link>https://yujie-he.github.io/project/2021-lis-drone-delivery/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-lis-drone-delivery/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Semester Research Student&lt;/strong&gt; at &lt;a href=&#34;https://lis.epfl.ch/&#34; target=&#34;_blank&#34;&gt;Laboratory of Intelligent Systems (LIS)&lt;/a&gt;, EPFL since &lt;em&gt;Feb. 2021&lt;/em&gt;
+Supervisor: &lt;a href=&#34;https://people.epfl.ch/valentin.wueest/?lang=en&#34; target=&#34;_blank&#34;&gt;Valentin Wüest&lt;/a&gt; (PhD student) and &lt;a href=&#34;https://people.epfl.ch/przemyslaw.kornatowski/?lang=en&#34; target=&#34;_blank&#34;&gt;Dr. Przemyslaw Mariusz Kornatowski&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;At the Laboratory of Intelligent Systems (LIS), passionate researchers are developing a human-friendly drone delivery system for last-cm delivery - &lt;a href=&#34;http://dronistics.epfl.ch&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Dronistics&lt;/strong&gt;&lt;/a&gt;. The system is composed of a safe drone called &lt;strong&gt;GearQuad&lt;/strong&gt; and software to control and monitor drones in real-time.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;gearquad.jpg&#34; alt=&#34;gearquad_parcel&#34; style=&#34;zoom:15%;&#34; /&gt;
+  &lt;small&gt;
+  &lt;b&gt;Parcel placed above the cage allows the drone to transport parcels of various sizes without negative impact on lift&lt;/b&gt; [Source: &lt;a href=&#34;http://dronistics.epfl.ch&#34; target=&#34;_blank&#34;&gt;Dronistics&lt;/a&gt;]
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the goal of this semster project?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our goal is &lt;u&gt;to &lt;strong&gt;deliver to a balcony/window&lt;/strong&gt; which is &lt;strong&gt;tagged with a special symbol/pattern&lt;/strong&gt;&lt;/u&gt;. Moreover, the drone &lt;u&gt;should be equipped with a system of &lt;strong&gt;collision avoidance&lt;/strong&gt; to prevent hitting a building&lt;/u&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why motivates us to work on this project?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One vivid example is that in this special period of Covid-19, people are required to keep social distance while delivery work keeps operating. In contrast to large aircraft, window/balcony delivery with lightweight drone is a reasonable and effective solution to send valuable parcels such as medical supplies rapidly and safely.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the plan?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./lis_21spring_gantt.jpg&#34; alt=&#34;lis_21spring_gantt&#34; style=&#34;zoom:40%;&#34; /&gt;
+  &lt;small&gt;
+  &lt;b&gt;Gantt chart for overall project&lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mid-term-presentation&#34;&gt;Mid-term presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://drive.google.com/file/d/1LCtTQ2NFRRjhwrPHcfao5ApY6hocKZaQ/preview&#34; width=&#34;700&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;experiments-videos&#34;&gt;Experiments &amp;amp; videos&lt;/h2&gt;
+
+&lt;p&gt;🚧 To be updated!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

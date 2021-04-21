@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unmanned Aerial Vehicle on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</link>
+    <description>Recent content in Unmanned Aerial Vehicle on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/unmanned-aerial-vehicle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of vision based algorithms to a window/balcony drone delivery</title>
+      <link>https://yujie-he.github.io/project/2021-lis-drone-delivery/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-lis-drone-delivery/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Semester Research Student&lt;/strong&gt; at &lt;a href=&#34;https://lis.epfl.ch/&#34; target=&#34;_blank&#34;&gt;Laboratory of Intelligent Systems (LIS)&lt;/a&gt;, EPFL since &lt;em&gt;Feb. 2021&lt;/em&gt;
+Supervisor: &lt;a href=&#34;https://people.epfl.ch/valentin.wueest/?lang=en&#34; target=&#34;_blank&#34;&gt;Valentin Wüest&lt;/a&gt; (PhD student) and &lt;a href=&#34;https://people.epfl.ch/przemyslaw.kornatowski/?lang=en&#34; target=&#34;_blank&#34;&gt;Dr. Przemyslaw Mariusz Kornatowski&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;At the Laboratory of Intelligent Systems (LIS), passionate researchers are developing a human-friendly drone delivery system for last-cm delivery - &lt;a href=&#34;http://dronistics.epfl.ch&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Dronistics&lt;/strong&gt;&lt;/a&gt;. The system is composed of a safe drone called &lt;strong&gt;GearQuad&lt;/strong&gt; and software to control and monitor drones in real-time.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;gearquad.jpg&#34; alt=&#34;gearquad_parcel&#34; style=&#34;zoom:15%;&#34; /&gt;
+  &lt;small&gt;
+  &lt;b&gt;Parcel placed above the cage allows the drone to transport parcels of various sizes without negative impact on lift&lt;/b&gt; [Source: &lt;a href=&#34;http://dronistics.epfl.ch&#34; target=&#34;_blank&#34;&gt;Dronistics&lt;/a&gt;]
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the goal of this semster project?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our goal is &lt;u&gt;to &lt;strong&gt;deliver to a balcony/window&lt;/strong&gt; which is &lt;strong&gt;tagged with a special symbol/pattern&lt;/strong&gt;&lt;/u&gt;. Moreover, the drone &lt;u&gt;should be equipped with a system of &lt;strong&gt;collision avoidance&lt;/strong&gt; to prevent hitting a building&lt;/u&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why motivates us to work on this project?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One vivid example is that in this special period of Covid-19, people are required to keep social distance while delivery work keeps operating. In contrast to large aircraft, window/balcony delivery with lightweight drone is a reasonable and effective solution to send valuable parcels such as medical supplies rapidly and safely.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the plan?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./lis_21spring_gantt.jpg&#34; alt=&#34;lis_21spring_gantt&#34; style=&#34;zoom:40%;&#34; /&gt;
+  &lt;small&gt;
+  &lt;b&gt;Gantt chart for overall project&lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mid-term-presentation&#34;&gt;Mid-term presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://drive.google.com/file/d/1LCtTQ2NFRRjhwrPHcfao5ApY6hocKZaQ/preview&#34; width=&#34;700&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;experiments-videos&#34;&gt;Experiments &amp;amp; videos&lt;/h2&gt;
+
+&lt;p&gt;🚧 To be updated!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Visual Object Tracking for UAV in Dynamic Environments</title>
+      <link>https://yujie-he.github.io/project/2020-tracking4uav/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2020-tracking4uav/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Undergraduate Research Assistant&lt;/strong&gt; since &lt;em&gt;Sep. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Investigated correlation filter (CF)-based &lt;strong&gt;visual object tracking&lt;/strong&gt; for unmanned aerial vehicles. By applying &lt;strong&gt;machine learning &amp;amp; deep learning&lt;/strong&gt; techniques, we have improved the existing trackers on overall tracking performance in challenging scenarios with real-time operational capability.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h2&gt;
+
+&lt;p&gt;Related work has been published in journals and conferences as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Proposed a lightweight and generalizable &lt;strong&gt;triple attention strategy&lt;/strong&gt; on CF-based framework by exploiting mutual independence of the appearance model and feature responses to implement real-time tracking for UAV.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_tacf_iros/&#34;&gt;&lt;em&gt;Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IROS 2020&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Employed the adaptive &lt;strong&gt;GMSD-based context analysis&lt;/strong&gt; and &lt;strong&gt;dynamic weighted filters&lt;/strong&gt; for utilizing both contextual and historical information, and leveraged &lt;strong&gt;lightweight convolution features&lt;/strong&gt; to efficiently raise the tracking robustness.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_mkct_ncaa/&#34;&gt;&lt;em&gt;Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;Neural Computing and Applications&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Exploited the inter-frame information between prediction and backtracking phases for further incorporating the &lt;strong&gt;bidirectional incongruity error&lt;/strong&gt; into the CF learning.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_bicf_icra/&#34;&gt;&lt;em&gt;BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2020&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    For more info, please refer to my &lt;a href=&#34;https://www.youtube.com/channel/UCGpK01NL0j3RkXpsODXm-Dg&#34; target=&#34;_blank&#34;&gt;YouTube channel&lt;/a&gt; and &lt;a href=&#34;https://github.com/hibetterheyj&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

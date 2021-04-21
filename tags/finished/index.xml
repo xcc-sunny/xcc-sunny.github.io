@@ -7,10 +7,152 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/finished/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sim2Real Development for Thymio with ROS</title>
+      <link>https://yujie-he.github.io/project/2021-ros-basics/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-ros-basics/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/robotics-practicals-MICRO-453&#34; target=&#34;_blank&#34;&gt;MICRO-453 Robotics practicals&lt;/a&gt;, EPFL, 2021 Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Students: &lt;a href=&#34;https://github.com/Chuanfang-Neptune&#34; target=&#34;_blank&#34;&gt;Chuanfang Ning&lt;/a&gt;, &lt;a href=&#34;https://github.com/Jianhao-zheng&#34; target=&#34;_blank&#34;&gt;Jianhao Zheng&lt;/a&gt;, and Yujie He&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;keywords&#34;&gt;🔑 Keywords&lt;/h2&gt;
+
+&lt;p&gt;Thymio, PID, Way following, Obstacle avoidance, Pledge algorithm, ArUco marker, Sim2Real, Gazebo&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./sim2real.png&#34; alt=&#34;sim2real&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;small&gt;
+&lt;strong&gt;The tested environment in Gazebo and real-world setup&lt;/strong&gt;
+&lt;/small&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;example-videos&#34;&gt;📷 Example videos&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For more examples, please refer to &lt;a href=&#34;https://go.epfl.ch/ros_basics_final_2021&#34; target=&#34;_blank&#34;&gt;https://go.epfl.ch/ros_basics_final_2021&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Simulation in Gazebo&lt;/th&gt;
+&lt;th&gt;Real-world test on campus&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;iframe width=&#34;280&#34; height=&#34;160&#34; src=&#34;https://www.youtube.com/embed/_3xvN2QztKM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/td&gt;
+&lt;td&gt;&lt;iframe width=&#34;280&#34; height=&#34;160&#34; src=&#34;https://www.youtube.com/embed/Ydh_I8mSHz4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;how-to-launch-the-example-code&#34;&gt;🔨 How to launch the example code?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For more details, please refer to &lt;a href=&#34;https://github.com/hibetterheyj/EPFL_ROS_Practicals_Project/&#34; target=&#34;_blank&#34;&gt;hibetterheyj/&lt;strong&gt;EPFL_ROS_Practicals_Project&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;simulate Thymio robot in Gazebo with an interactive window&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  roslaunch ros_basics_control simu_thymio.launch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;adding waypoints and obstacle for the robot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  roslaunch ros_basics_control simu_thymio.launch
+  roslaunch ros_basics_exercise set_simu_waypoints_obstacle.launch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;extract pose and sensor information from rosbag files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  roslaunch ros_basics_exercise view_with_rosbag.launch
+  # open a new terminal
+  rosrun ros_basics_exercise topic_reader.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;plot trajectory comparison between real and simulation (using matlab)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  cd results_from_bag/
+  # run `plot_traj_comp.m` in MATLAB
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hibetterheyj/EPFL_ROS_Practicals_Project/master/results_from_bag/traj_thymio_simulation_navigation_with_obstacle_avoidance.png&#34; alt=&#34;traj_thymio_simulation_navigation_with_obstacle_avoidance&#34; style=&#34;zoom:30%;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgement&#34;&gt;⭐️ Acknowledgement&lt;/h2&gt;
+
+&lt;p&gt;Thanks to Vaios Papaspyros and Rafael Barmak from MOBOTS at EPFL for the amazing course tutorials !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Online Visual Object Tracking for UAV in Dynamic Environments</title>
+      <link>https://yujie-he.github.io/project/2020-tracking4uav/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2020-tracking4uav/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Undergraduate Research Assistant&lt;/strong&gt; since &lt;em&gt;Sep. 2018&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Investigated correlation filter (CF)-based &lt;strong&gt;visual object tracking&lt;/strong&gt; for unmanned aerial vehicles. By applying &lt;strong&gt;machine learning &amp;amp; deep learning&lt;/strong&gt; techniques, we have improved the existing trackers on overall tracking performance in challenging scenarios with real-time operational capability.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;papers-with-code&#34;&gt;Papers with code&lt;/h2&gt;
+
+&lt;p&gt;Related work has been published in journals and conferences as follows:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Proposed a lightweight and generalizable &lt;strong&gt;triple attention strategy&lt;/strong&gt; on CF-based framework by exploiting mutual independence of the appearance model and feature responses to implement real-time tracking for UAV.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_tacf_iros/&#34;&gt;&lt;em&gt;Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;IROS 2020&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Employed the adaptive &lt;strong&gt;GMSD-based context analysis&lt;/strong&gt; and &lt;strong&gt;dynamic weighted filters&lt;/strong&gt; for utilizing both contextual and historical information, and leveraged &lt;strong&gt;lightweight convolution features&lt;/strong&gt; to efficiently raise the tracking robustness.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_mkct_ncaa/&#34;&gt;&lt;em&gt;Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;Neural Computing and Applications&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Exploited the inter-frame information between prediction and backtracking phases for further incorporating the &lt;strong&gt;bidirectional incongruity error&lt;/strong&gt; into the CF learning.&lt;/p&gt;
+
+&lt;p&gt;🚩 &lt;a href=&#34;../../publication/2020_bicf_icra/&#34;&gt;&lt;em&gt;BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking&lt;/em&gt;&lt;/a&gt; in &lt;strong&gt;ICRA 2020&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    For more info, please refer to my &lt;a href=&#34;https://www.youtube.com/channel/UCGpK01NL0j3RkXpsODXm-Dg&#34; target=&#34;_blank&#34;&gt;YouTube channel&lt;/a&gt; and &lt;a href=&#34;https://github.com/hibetterheyj&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>3D Zonal Segmentation of the Prostate MRI (Deep Learning Final Project)</title>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ROS on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/ros/</link>
+    <description>Recent content in ROS on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/ros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Development of vision based algorithms to a window/balcony drone delivery</title>
+      <link>https://yujie-he.github.io/project/2021-lis-drone-delivery/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-lis-drone-delivery/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Semester Research Student&lt;/strong&gt; at &lt;a href=&#34;https://lis.epfl.ch/&#34; target=&#34;_blank&#34;&gt;Laboratory of Intelligent Systems (LIS)&lt;/a&gt;, EPFL since &lt;em&gt;Feb. 2021&lt;/em&gt;
+Supervisor: &lt;a href=&#34;https://people.epfl.ch/valentin.wueest/?lang=en&#34; target=&#34;_blank&#34;&gt;Valentin Wüest&lt;/a&gt; (PhD student) and &lt;a href=&#34;https://people.epfl.ch/przemyslaw.kornatowski/?lang=en&#34; target=&#34;_blank&#34;&gt;Dr. Przemyslaw Mariusz Kornatowski&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;At the Laboratory of Intelligent Systems (LIS), passionate researchers are developing a human-friendly drone delivery system for last-cm delivery - &lt;a href=&#34;http://dronistics.epfl.ch&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Dronistics&lt;/strong&gt;&lt;/a&gt;. The system is composed of a safe drone called &lt;strong&gt;GearQuad&lt;/strong&gt; and software to control and monitor drones in real-time.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;gearquad.jpg&#34; alt=&#34;gearquad_parcel&#34; style=&#34;zoom:15%;&#34; /&gt;
+  &lt;small&gt;
+  &lt;b&gt;Parcel placed above the cage allows the drone to transport parcels of various sizes without negative impact on lift&lt;/b&gt; [Source: &lt;a href=&#34;http://dronistics.epfl.ch&#34; target=&#34;_blank&#34;&gt;Dronistics&lt;/a&gt;]
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the goal of this semster project?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our goal is &lt;u&gt;to &lt;strong&gt;deliver to a balcony/window&lt;/strong&gt; which is &lt;strong&gt;tagged with a special symbol/pattern&lt;/strong&gt;&lt;/u&gt;. Moreover, the drone &lt;u&gt;should be equipped with a system of &lt;strong&gt;collision avoidance&lt;/strong&gt; to prevent hitting a building&lt;/u&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Why motivates us to work on this project?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One vivid example is that in this special period of Covid-19, people are required to keep social distance while delivery work keeps operating. In contrast to large aircraft, window/balcony delivery with lightweight drone is a reasonable and effective solution to send valuable parcels such as medical supplies rapidly and safely.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the plan?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./lis_21spring_gantt.jpg&#34; alt=&#34;lis_21spring_gantt&#34; style=&#34;zoom:40%;&#34; /&gt;
+  &lt;small&gt;
+  &lt;b&gt;Gantt chart for overall project&lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mid-term-presentation&#34;&gt;Mid-term presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://drive.google.com/file/d/1LCtTQ2NFRRjhwrPHcfao5ApY6hocKZaQ/preview&#34; width=&#34;700&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;experiments-videos&#34;&gt;Experiments &amp;amp; videos&lt;/h2&gt;
+
+&lt;p&gt;🚧 To be updated!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sim2Real Development for Thymio with ROS</title>
+      <link>https://yujie-he.github.io/project/2021-ros-basics/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-ros-basics/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/robotics-practicals-MICRO-453&#34; target=&#34;_blank&#34;&gt;MICRO-453 Robotics practicals&lt;/a&gt;, EPFL, 2021 Spring&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Students: &lt;a href=&#34;https://github.com/Chuanfang-Neptune&#34; target=&#34;_blank&#34;&gt;Chuanfang Ning&lt;/a&gt;, &lt;a href=&#34;https://github.com/Jianhao-zheng&#34; target=&#34;_blank&#34;&gt;Jianhao Zheng&lt;/a&gt;, and Yujie He&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;keywords&#34;&gt;🔑 Keywords&lt;/h2&gt;
+
+&lt;p&gt;Thymio, PID, Way following, Obstacle avoidance, Pledge algorithm, ArUco marker, Sim2Real, Gazebo&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./sim2real.png&#34; alt=&#34;sim2real&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;small&gt;
+&lt;strong&gt;The tested environment in Gazebo and real-world setup&lt;/strong&gt;
+&lt;/small&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;example-videos&#34;&gt;📷 Example videos&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For more examples, please refer to &lt;a href=&#34;https://go.epfl.ch/ros_basics_final_2021&#34; target=&#34;_blank&#34;&gt;https://go.epfl.ch/ros_basics_final_2021&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Simulation in Gazebo&lt;/th&gt;
+&lt;th&gt;Real-world test on campus&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;iframe width=&#34;280&#34; height=&#34;160&#34; src=&#34;https://www.youtube.com/embed/_3xvN2QztKM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/td&gt;
+&lt;td&gt;&lt;iframe width=&#34;280&#34; height=&#34;160&#34; src=&#34;https://www.youtube.com/embed/Ydh_I8mSHz4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;how-to-launch-the-example-code&#34;&gt;🔨 How to launch the example code?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For more details, please refer to &lt;a href=&#34;https://github.com/hibetterheyj/EPFL_ROS_Practicals_Project/&#34; target=&#34;_blank&#34;&gt;hibetterheyj/&lt;strong&gt;EPFL_ROS_Practicals_Project&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;simulate Thymio robot in Gazebo with an interactive window&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  roslaunch ros_basics_control simu_thymio.launch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;adding waypoints and obstacle for the robot&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  roslaunch ros_basics_control simu_thymio.launch
+  roslaunch ros_basics_exercise set_simu_waypoints_obstacle.launch
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;extract pose and sensor information from rosbag files&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  roslaunch ros_basics_exercise view_with_rosbag.launch
+  # open a new terminal
+  rosrun ros_basics_exercise topic_reader.py
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;plot trajectory comparison between real and simulation (using matlab)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;  cd results_from_bag/
+  # run `plot_traj_comp.m` in MATLAB
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hibetterheyj/EPFL_ROS_Practicals_Project/master/results_from_bag/traj_thymio_simulation_navigation_with_obstacle_avoidance.png&#34; alt=&#34;traj_thymio_simulation_navigation_with_obstacle_avoidance&#34; style=&#34;zoom:30%;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgement&#34;&gt;⭐️ Acknowledgement&lt;/h2&gt;
+
+&lt;p&gt;Thanks to Vaios Papaspyros and Rafael Barmak from MOBOTS at EPFL for the amazing course tutorials !&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
