@@ -7,30 +7,18 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 22 Jan 2020 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jan 2020: Our paper BiCF to appear at ICRA 2020, Paris, France.</title>
-      <link>https://yujie-he.github.io/post/20-01-bicf/</link>
-      <pubDate>Wed, 22 Jan 2020 12:00:00 +0800</pubDate>
-      
-      <guid>https://yujie-he.github.io/post/20-01-bicf/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;https://yujie-he.github.io/publication/2020_bicf_icra/&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking&lt;/em&gt;&lt;/a&gt; is accepted by IEEE/RSJ International Conference on Robotics and Automation, 2020 !&lt;/p&gt;
-
-&lt;p&gt;It is my first time to publish a regular paper in top robotics conference. More details will be released soon !&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nov 2019: Our paper SPCF won the Best Poster Award in the IROS Workshop, Macua, China.</title>
+      <title>2019-11-04: Our paper SPCF won the Best Poster Award in the IROS Workshop, Macua, China.</title>
       <link>https://yujie-he.github.io/post/19-11-iros/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0800</pubDate>
       
       <guid>https://yujie-he.github.io/post/19-11-iros/</guid>
-      <description>&lt;p&gt;First time to participate the top robotics conference&amp;mdash;IEEE/RSJ International Conference on Intelligent Robots and Systems (&lt;a href=&#34;https://www.iros2019.org/&#34; target=&#34;_blank&#34;&gt;IROS 2019&lt;/a&gt;) held on Nov. 4 – 8, 2019 in Macau, China.&lt;/p&gt;
+      <description>&lt;p&gt;It&amp;rsquo;s my first time to participate the top robotics conference&amp;ndash;IEEE/RSJ International Conference on Intelligent Robots and Systems (&lt;a href=&#34;https://www.iros2019.org/&#34; target=&#34;_blank&#34;&gt;IROS 2019&lt;/a&gt;) held on Nov. 4 – 8, 2019 in Macau, China.&lt;/p&gt;
 
 &lt;p&gt;Feel very lucky to talk to the experts, professors, and my fellows!&lt;/p&gt;
 

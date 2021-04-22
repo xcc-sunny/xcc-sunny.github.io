@@ -7,10 +7,28 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Apr 2021 12:00:00 +0800</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>reference-management</title>
+      <link>https://yujie-he.github.io/tags/reference-management/</link>
+      <pubDate>Thu, 22 Apr 2021 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/reference-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zotero</title>
+      <link>https://yujie-he.github.io/tags/zotero/</link>
+      <pubDate>Thu, 22 Apr 2021 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/zotero/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Featured💡</title>
@@ -36,6 +54,15 @@
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechatronics</title>
+      <link>https://yujie-he.github.io/tags/mechatronics/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/mechatronics/</guid>
       <description></description>
     </item>
     
@@ -247,33 +274,6 @@
     </item>
     
     <item>
-      <title>ICRA</title>
-      <link>https://yujie-he.github.io/tags/icra/</link>
-      <pubDate>Wed, 22 Jan 2020 12:00:00 +0800</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/icra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>conference</title>
-      <link>https://yujie-he.github.io/tags/conference/</link>
-      <pubDate>Wed, 22 Jan 2020 12:00:00 +0800</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>journal</title>
-      <link>https://yujie-he.github.io/tags/journal/</link>
-      <pubDate>Mon, 06 Jan 2020 12:00:00 +0800</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Adaptive context analysis</title>
       <link>https://yujie-he.github.io/tags/adaptive-context-analysis/</link>
       <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
@@ -310,6 +310,15 @@
     </item>
     
     <item>
+      <title>conference</title>
+      <link>https://yujie-he.github.io/tags/conference/</link>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Correlation filter</title>
       <link>https://yujie-he.github.io/tags/correlation-filter/</link>
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
@@ -324,15 +333,6 @@
       <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/sample-purification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechatronics</title>
-      <link>https://yujie-he.github.io/tags/mechatronics/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/mechatronics/</guid>
       <description></description>
     </item>
     

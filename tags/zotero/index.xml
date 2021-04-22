@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>zotero on YUJIE HE</title>
+    <link>https://yujie-he.github.io/tags/zotero/</link>
+    <description>Recent content in zotero on YUJIE HE</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Thu, 22 Apr 2021 12:00:00 +0800</lastBuildDate>
+    
+	    <atom:link href="https://yujie-he.github.io/tags/zotero/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2021-04-22: Zotero for Reference Management</title>
+      <link>https://yujie-he.github.io/post/21-04-22-zotero/</link>
+      <pubDate>Thu, 22 Apr 2021 12:00:00 +0800</pubDate>
+      
+      <guid>https://yujie-he.github.io/post/21-04-22-zotero/</guid>
+      <description>
+
+&lt;h3 id=&#34;short-course-at-epfl&#34;&gt;Short course at EPFL&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EPFL: Up to speed with Zotero
+
+&lt;ul&gt;
+&lt;li&gt;Gitbook: &lt;a href=&#34;https://fbib.gitbooks.io/up-to-speed-with-zotero/content/&#34; target=&#34;_blank&#34;&gt;https://fbib.gitbooks.io/up-to-speed-with-zotero/content/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Slide: &lt;a href=&#34;https://go.epfl.ch/ztart&#34; target=&#34;_blank&#34;&gt;https://go.epfl.ch/ztart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;guides-in-chinese&#34;&gt;Guides in Chinese&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/31453719&#34; target=&#34;_blank&#34;&gt;Zotero 跨平台同步附件的实现-Zhihu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/31852030&#34; target=&#34;_blank&#34;&gt;Zotero 开箱指南-Zhihu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/63479253&#34; target=&#34;_blank&#34;&gt;Zotero入门小技巧-Zhihu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/read/cv6770896/&#34; target=&#34;_blank&#34;&gt;Zotero「工具包」已备好，请使用！-Bilibili&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zhihu.com/question/309465545&#34; target=&#34;_blank&#34;&gt;如何使用zotero文献管理软件在latex中排版参考文献啊？-Zhihu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;plug-ins&#34;&gt;Plug-ins&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Better BibTeX: &lt;a href=&#34;https://retorque.re/zotero-better-bibtex/&#34; target=&#34;_blank&#34;&gt;doc&lt;/a&gt;, &lt;a href=&#34;https://github.com/retorquere/zotero-better-bibtex/releases/&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;my citekey style: &lt;code&gt;[auth:lower][year][journal:abbr]&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Citation Counts Manager: &lt;a href=&#34;https://github.com/eschnett/zotero-citationcounts/releases&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ZoteroQuickLook: &lt;a href=&#34;https://github.com/mronkko/ZoteroQuickLook/releases&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zutilo: &lt;a href=&#34;https://github.com/wshanks/Zutilo/releases&#34; target=&#34;_blank&#34;&gt;download&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;useful-links&#34;&gt;Useful links&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Plugins&lt;/strong&gt; for Zotero to add features:
+&lt;a href=&#34;https://www.zotero.org/support/plugins&#34; target=&#34;_blank&#34;&gt;https://www.zotero.org/support/plugins&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Zotero &lt;strong&gt;Forum&lt;/strong&gt; to get help from the large Zotero community:
+&lt;a href=&#34;https://forums.zotero.org/discussions&#34; target=&#34;_blank&#34;&gt;https://forums.zotero.org/discussions&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
