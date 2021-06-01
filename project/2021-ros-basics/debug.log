@@ -34,3 +34,28 @@
 [0422/135433:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0422/135434:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
 [0422/135434:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0422/172137:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0422/174508:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0422/213347:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0422/213356:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0423/104022:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/104027:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105116:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105121:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105126:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105131:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105136:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105141:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105146:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105151:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105156:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105201:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105206:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105211:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105216:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0423/105221:WARNING:dns_config_service_win.cc(674)] Failed to read DnsConfig.
+[0424/155917:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0424/161621:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0425/141925:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0425/144107:ERROR:shell.cc(348)] Cannot client process matching existing identity:Name: exe:content_gpu User: 505C0EE9-3013-43C0-82B0-A84F50CF8D84 Instance: content_gpu
+[0425/144107:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.

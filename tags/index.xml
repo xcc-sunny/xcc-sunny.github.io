@@ -6,11 +6,47 @@
     <description>Recent content in Tags on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Thu, 22 Apr 2021 12:00:00 +0800</lastBuildDate>
+    <copyright>Last updated on June, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Featured💡</title>
+      <link>https://yujie-he.github.io/tags/featured/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finished😊</title>
+      <link>https://yujie-he.github.io/tags/finished/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/finished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://yujie-he.github.io/tags/robotics/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned Aerial Vehicle</title>
+      <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>reference-management</title>
@@ -27,15 +63,6 @@
       <pubDate>Thu, 22 Apr 2021 12:00:00 +0800</pubDate>
       
       <guid>https://yujie-he.github.io/tags/zotero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Featured💡</title>
-      <link>https://yujie-he.github.io/tags/featured/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/featured/</guid>
       <description></description>
     </item>
     
@@ -90,33 +117,6 @@
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://yujie-he.github.io/tags/robotics/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned Aerial Vehicle</title>
-      <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finished😊</title>
-      <link>https://yujie-he.github.io/tags/finished/</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/finished/</guid>
       <description></description>
     </item>
     

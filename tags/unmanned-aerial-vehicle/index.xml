@@ -6,11 +6,155 @@
     <description>Recent content in Unmanned Aerial Vehicle on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on June, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/unmanned-aerial-vehicle/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Autonomous Navigation and Landing for Crazyflie</title>
+      <link>https://yujie-he.github.io/project/2021-crazyflie-auto-nav/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-crazyflie-auto-nav/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Final project&lt;/strong&gt; in &lt;a href=&#34;https://edu.epfl.ch/coursebook/fr/aerial-robotics-MICRO-502&#34; target=&#34;_blank&#34;&gt;MICRO-502 Aerial robotics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Members: Yujie He, &lt;a href=&#34;https://github.com/Jianhao-zheng/&#34; target=&#34;_blank&#34;&gt;Jianhao Zheng&lt;/a&gt;, and &lt;a href=&#34;https://github.com/kevinxqiu&#34; target=&#34;_blank&#34;&gt;Longlai Qiu&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecturer:  &lt;a href=&#34;https://people.epfl.ch/dario.floreano/?lang=en&#34; target=&#34;_blank&#34;&gt;Prof. Dario Floreano&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;goal-autonomous-navigation-and-landing-for-crazyflie&#34;&gt;Goal: Autonomous Navigation and Landing for Crazyflie&lt;/h2&gt;
+
+&lt;p&gt;In this practical, we programed based on &lt;a href=&#34;https://www.bitcraze.io/products/crazyflie-2-1/&#34; target=&#34;_blank&#34;&gt;Crazyflie 2.1&lt;/a&gt; to find and precisely land on a platform with height of 10 cm by utilizing z reading from &lt;a href=&#34;https://www.bitcraze.io/products/flow-deck-v2/&#34; target=&#34;_blank&#34;&gt;flow deck&lt;/a&gt;. Additionally, We also utilized sensor readings from &lt;a href=&#34;https://www.bitcraze.io/products/multi-ranger-deck/&#34; target=&#34;_blank&#34;&gt;multi-ranger deck&lt;/a&gt; to avoid the obstacles presented in the environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/blob/master/pics/cover.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/raw/master/pics/cover.jpg&#34; alt=&#34;cover&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;pipeline&#34;&gt;Pipeline&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Autonomous navigation &amp;amp; landing&lt;/th&gt;
+&lt;th&gt;Workflow&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;✓ Local obstacle avoidance &lt;br&gt;✓ Grid-based coverage path planning &lt;br&gt;✓ Waypoint following &lt;br&gt;✓ A* search-based re-planning&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/master/pics/pipeline_final.png&#34; alt=&#34;pipeline_final&#34;  width=&#34;500&#34;/&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+
+&lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Modular library for different tasks&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;├── cf_load_params.py  # parameter setting
+├── cf_search.py       # searching functions such as, coverage planning, box edge detection, A* search
+├── cf_state_class.py  # state estimation class for the proposed task
+└── cf_utilis.py       # utility functions, such as live plotting
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Utilized &lt;code&gt;argparse&lt;/code&gt; for quick parameter adjustment and tuning&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Utilized &lt;code&gt;matplotlib&lt;/code&gt; for real-time visualization&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;structure&#34;&gt;Structure&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Code folder: &lt;a href=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/tree/master/code/crazyflie-lib-python/group_7&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;./code/crazyflie-lib-python/group_7/&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code&gt;.
+├── cf_load_params.py
+├── cf_search.py
+├── cf_state_class.py
+├── cf_utilis.py
+├── overall.py
+├── draw_traj_demo.py
+├── logs
+│   ├── overall-20210530_1930_x.csv
+│   ├── overall-20210530_1930_x_half.csv
+│   ├── overall-20210530_1930_y.csv
+│   └── overall-20210530_1930_y_half.cs
+└── readme.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;demo&#34;&gt;Demo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;overall.py&lt;/code&gt;: overall pipeline from taking off to landing.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# -x (float) for setting initial x position
+# -y (float) for setting initial y position
+# -v (bool) for enabling visualization
+python overall.py -x 0.6 -y 0.6 -v
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/blob/master/pics/cf_land.gif&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/raw/master/pics/cf_land.gif&#34; alt=&#34;cf_land&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;code&gt;draw_traj.py&lt;/code&gt;: x-y trajectory visualization with region annotation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;# --log_folder (str) for assigning input log folder
+# --logname (str) for loding log file
+# --img_folder (str) for assigning output image folder
+# -n/--name (str) for assigning output image name
+# --zone_anno (bool) for enabling region annotation
+python draw_traj_demo.py --logname overall-20210530_1930 -n cf_demo --zone_anno
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/blob/master/pics/cf_demo.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/raw/master/pics/cf_demo.png&#34; alt=&#34;cf_demo&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The estimated values drift considerably after long flights. Moreover, the predicted starting position is significantly different from the starting point after the drone re-takes off.&lt;/p&gt;
+
+&lt;h2 id=&#34;experiments&#34;&gt;Experiments&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Features&lt;/th&gt;
+&lt;th&gt;Figures&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;✓ Size: 480 cm (W) × 120 cm (H) &lt;/br&gt;✓ Starting &amp;amp; Landing pad&lt;/br&gt; - starting (x, y) = (60 cm, 60 cm)&lt;/br&gt; - landing pad randomly placed &lt;/br&gt;✓ Circular and rectangular obstacles&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;https://raw.githubusercontent.com/hibetterheyj/Crazyflie_Auto_Navigation_Landing/master/pics/experimental_setup.png&#34; alt=&#34;experimental_setup&#34;  width=&#34;500&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;320&#34; src=&#34;https://www.youtube.com/embed/RP4-SlhOIUk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;slide&#34;&gt;Slide&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1vY_UMflVXOcUSOASHkGHsSTXCBmwrVhK/preview&#34; width=&#34;560&#34; height=&#34;320&#34;&gt;&lt;/iframe&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Development of vision based algorithms to a window/balcony drone delivery</title>
