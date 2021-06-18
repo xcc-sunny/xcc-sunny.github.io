@@ -112,12 +112,12 @@
   <meta property="og:site_name" content="YUJIE HE">
   <meta property="og:url" content="https://yujie-he.github.io/project/2021-lis-drone-delivery/">
   <meta property="og:title" content="Development of vision based algorithms to a window/balcony drone delivery | YUJIE HE">
-  <meta property="og:description" content="Proposed a simplified pipeline of last-centimeter drone delivery towards window/balcony with vision-based fiducial marker detection and collision prevention under rigorous test"><meta property="og:image" content="https://yujie-he.github.io/project/2021-lis-drone-delivery/featured.png">
+  <meta property="og:description" content="Proposed a simplified pipeline of last-centimeter drone delivery towards window/balcony with vision-based fiducial marker detection and collision prevention under rigorous test"><meta property="og:image" content="https://yujie-he.github.io/project/2021-lis-drone-delivery/featured.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2021-04-21T00:00:00&#43;00:00">
+  <meta property="article:published_time" content="2021-06-17T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2021-04-21T00:00:00&#43;00:00">
+  <meta property="article:modified_time" content="2021-06-17T00:00:00&#43;00:00">
   
 
   
@@ -474,8 +474,8 @@
 
 
 <div class="article-header d-xl-none">
-  <div class="featured-image" style="background-image: url('/project/2021-lis-drone-delivery/featured_hu0aa473668c0c52b5bfdf894c3ab614fe_64759_800x0_resize_lanczos_2.png');"></div>
-  
+  <div class="featured-image" style="background-image: url('/project/2021-lis-drone-delivery/featured_hu35dfb6ad499ac5596c98ff000b097602_114603_800x0_resize_q90_lanczos.jpg');"></div>
+  <span class="article-header-caption">Customized PackDrone</span>
 </div>
 
 
@@ -491,8 +491,8 @@
 
 
 
-<meta content="2021-04-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-04-21 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2021-06-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2021-06-17 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -505,7 +505,7 @@
     
       
     
-    <time>2021-04-21</time>
+    <time>2021-06-17</time>
   </span>
   
 
@@ -671,8 +671,8 @@
     </div>
     <div class="col-6">
       <div class="split-header-image">
-        <img src="/project/2021-lis-drone-delivery/featured_hu0aa473668c0c52b5bfdf894c3ab614fe_64759_680x500_fill_q90_lanczos_smart1_2.png" itemprop="image" alt="">
-        
+        <img src="/project/2021-lis-drone-delivery/featured_hu35dfb6ad499ac5596c98ff000b097602_114603_680x500_fill_q90_lanczos_smart1.jpg" itemprop="image" alt="">
+        <span class="article-header-caption">Customized PackDrone</span>
       </div>
     </div>
   </div>
@@ -687,8 +687,8 @@
 
 
 
-<meta content="2021-04-21 00:00:00 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2021-04-21 00:00:00 &#43;0000 UTC" itemprop="dateModified">
+<meta content="2021-06-17 00:00:00 &#43;0000 UTC" itemprop="datePublished">
+<meta content="2021-06-17 00:00:00 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -701,7 +701,7 @@
     
       
     
-    <time>2021-04-21</time>
+    <time>2021-06-17</time>
   </span>
   
 
@@ -873,7 +873,7 @@
 
 <blockquote>
 <p><strong>Semester Research Student</strong> at <a href="https://lis.epfl.ch/" target="_blank">Laboratory of Intelligent Systems (LIS)</a>, EPFL since <em>Feb. 2021</em>
-Supervisor: <a href="https://people.epfl.ch/valentin.wueest/?lang=en" target="_blank">Valentin Wüest</a> (PhD student) and <a href="https://people.epfl.ch/przemyslaw.kornatowski/?lang=en" target="_blank">Dr. Przemyslaw Mariusz Kornatowski</a></p>
+Supervisor: <a href="https://people.epfl.ch/valentin.wueest/?lang=en" target="_blank">Valentin Wüest</a> (PhD student), <a href="https://people.epfl.ch/przemyslaw.kornatowski/?lang=en" target="_blank">Dr. Przemyslaw Mariusz Kornatowski</a>, and <a href="https://people.epfl.ch/dario.floreano" target="_blank">Prof. Dario Floreano</a></p>
 </blockquote>
 
 <p><h2>Table of Contents</h2>
@@ -882,28 +882,35 @@ Supervisor: <a href="https://people.epfl.ch/valentin.wueest/?lang=en" target="_b
 <li>
 <ul>
 <li><a href="#background">Background</a></li>
-<li><a href="#mid-term-presentation">Mid-term presentation</a></li>
-<li><a href="#experiments-videos">Experiments &amp; videos</a></li>
+<li><a href="#system-architecture">System architecture</a></li>
+<li><a href="#experiments">Experiments</a></li>
+<li><a href="#final-presentation">Final presentation</a></li>
+<li><a href="#code-videos">Code &amp; videos</a></li>
 </ul></li>
 </ul>
 </nav></p>
 
 <h2 id="background">Background</h2>
 
-<p>At the Laboratory of Intelligent Systems (LIS), passionate researchers are developing a human-friendly drone delivery system for last-cm delivery - <a href="http://dronistics.epfl.ch" target="_blank"><strong>Dronistics</strong></a>. The system is composed of a safe drone called <strong>GearQuad</strong> and software to control and monitor drones in real-time.</p>
+<p>At the Laboratory of Intelligent Systems (LIS), passionate researchers are developing a human-friendly drone delivery system for last-cm delivery - <a href="http://dronistics.epfl.ch" target="_blank"><strong>Dronistics</strong></a>. The system is composed of a safe drone called <strong>PackDrone</strong> and software to control and monitor drones in real-time.</p>
 
 <p><center>
-  <img src="gearquad.jpg" alt="gearquad_parcel" style="zoom:15%;" />
+  <!-- <img src="gearquad.jpg" alt="gearquad_parcel" style="zoom:12%;" /> -->
+  <img src="https://dronistics.epfl.ch/img/PackDrone_deployed.jpg" alt="PackDrone_deployed"  width="200"  />
   <small>
-  <b>Parcel placed above the cage allows the drone to transport parcels of various sizes without negative impact on lift</b> [Source: <a href="http://dronistics.epfl.ch" target="_blank">Dronistics</a>]
+  <b>
+    <!-- Parcel placed above the cage allows the drone to transport parcels of various sizes without negative impact on lift -->
+     PackDrone can eliminate the damage from propellers or rotor blades with a foldable protective cage
+  </b>
+  [Source: <a href="http://dronistics.epfl.ch" target="_blank">Dronistics</a>]
   </small>
 </center></p>
 
 <ul>
-<li>What is the goal of this semster project?</li>
+<li>What is the goal of this semester project?</li>
 </ul>
 
-<p>Our goal is <u>to <strong>deliver to a balcony/window</strong> which is <strong>tagged with a special symbol/pattern</strong></u>. Moreover, the drone <u>should be equipped with a system of <strong>collision avoidance</strong> to prevent hitting a building</u>.</p>
+<p>Our goal is to <strong>deliver to a balcony/window</strong> which is <strong>tagged with a special symbol/pattern</strong>. Moreover, the drone should be equipped with a system of <strong>collision avoidance</strong> to prevent hitting a building.</p>
 
 <ul>
 <li>Why motivates us to work on this project?</li>
@@ -911,22 +918,53 @@ Supervisor: <a href="https://people.epfl.ch/valentin.wueest/?lang=en" target="_b
 
 <p>One vivid example is that in this special period of Covid-19, people are required to keep social distance while delivery work keeps operating. In contrast to large aircraft, window/balcony delivery with lightweight drone is a reasonable and effective solution to send valuable parcels such as medical supplies rapidly and safely.</p>
 
-<ul>
-<li>What is the plan?</li>
-</ul>
+<h2 id="system-architecture">System architecture</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Illustration</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><strong>Hardware</strong></td>
+<td><img src="./featured.jpg" alt="experimental_drone" width="600" /></td>
+</tr>
+
+<tr>
+<td><strong>Software</strong></td>
+<td><img src="./system_arch.jpg" alt="system_arch" width="600" /></td>
+</tr>
+</tbody>
+</table>
 
 <p><center>
-  <img src="./lis_21spring_gantt.jpg" alt="lis_21spring_gantt" style="zoom:40%;" />
   <small>
-  <b>Gantt chart for overall project</b>
+  <b>System architecture of the proposed drone delivery system</b>
   </small>
 </center></p>
 
-<h2 id="mid-term-presentation">Mid-term presentation</h2>
+<h2 id="experiments">Experiments</h2>
 
-<p><iframe src="https://drive.google.com/file/d/1LCtTQ2NFRRjhwrPHcfao5ApY6hocKZaQ/preview" width="700" height="400"></iframe></p>
+<ul>
+<li><p>Visual fiducial marker evaluation
+<img src="./tag_evaluation.jpg" alt="tag_evaluation" width="600" /></p></li>
 
-<h2 id="experiments-videos">Experiments &amp; videos</h2>
+<li><p>Onboard test</p></li>
+</ul>
+
+<p><img src="./tag_drone_real.png" alt="tag_drone_real" width="600" /></p>
+
+<h2 id="final-presentation">Final presentation</h2>
+
+<!-- <iframe src="https://drive.google.com/file/d/1LCtTQ2NFRRjhwrPHcfao5ApY6hocKZaQ/preview" width="700" height="400"></iframe> -->
+
+<p><iframe src="https://drive.google.com/file/d/1VmY0fp5KuiljASgDYkci4Nhcj0Mt3HlK/preview" width="700" height="400"></iframe></p>
+
+<h2 id="code-videos">Code &amp; videos</h2>
 
 <p>🚧 To be updated!</p>
 
@@ -949,6 +987,8 @@ Supervisor: <a href="https://people.epfl.ch/valentin.wueest/?lang=en" target="_b
   <a class="badge badge-light" href="/tags/pixhawk/">Pixhawk</a>
   
   <a class="badge badge-light" href="/tags/unmanned-aerial-vehicle/">Unmanned Aerial Vehicle</a>
+  
+  <a class="badge badge-light" href="/tags/visual-fiducial-marker/">Visual fiducial marker</a>
   
   <a class="badge badge-light" href="/tags/in-progress/">In Progress⚡</a>
   

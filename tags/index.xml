@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on June, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,90 @@
     <item>
       <title>Featured💡</title>
       <link>https://yujie-he.github.io/tags/featured/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Progress⚡</title>
+      <link>https://yujie-he.github.io/tags/in-progress/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/in-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Vision</title>
+      <link>https://yujie-he.github.io/tags/machine-vision/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechatronics</title>
+      <link>https://yujie-he.github.io/tags/mechatronics/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/mechatronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PX4</title>
+      <link>https://yujie-he.github.io/tags/px4/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/px4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixhawk</title>
+      <link>https://yujie-he.github.io/tags/pixhawk/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/pixhawk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS</title>
+      <link>https://yujie-he.github.io/tags/ros/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://yujie-he.github.io/tags/robotics/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmanned Aerial Vehicle</title>
+      <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual fiducial marker</title>
+      <link>https://yujie-he.github.io/tags/visual-fiducial-marker/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/visual-fiducial-marker/</guid>
       <description></description>
     </item>
     
@@ -27,24 +108,6 @@
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/finished/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://yujie-he.github.io/tags/robotics/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unmanned Aerial Vehicle</title>
-      <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</guid>
       <description></description>
     </item>
     
@@ -63,60 +126,6 @@
       <pubDate>Thu, 22 Apr 2021 12:00:00 +0800</pubDate>
       
       <guid>https://yujie-he.github.io/tags/zotero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In Progress⚡</title>
-      <link>https://yujie-he.github.io/tags/in-progress/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/in-progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Vision</title>
-      <link>https://yujie-he.github.io/tags/machine-vision/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mechatronics</title>
-      <link>https://yujie-he.github.io/tags/mechatronics/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/mechatronics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PX4</title>
-      <link>https://yujie-he.github.io/tags/px4/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/px4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pixhawk</title>
-      <link>https://yujie-he.github.io/tags/pixhawk/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/pixhawk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ROS</title>
-      <link>https://yujie-he.github.io/tags/ros/</link>
-      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/ros/</guid>
       <description></description>
     </item>
     
