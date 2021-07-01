@@ -23,6 +23,94 @@
   </url>
   
   <url>
+    <loc>https://yujie-he.github.io/publication_types/2/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/adaptive-response-reasoning/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/changhong-fu/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/discriminative-correlation-filter/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/fan-li/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/fuling-lin/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/publication_types/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/publication/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/publication/2021_recf_tits/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/real-time-uav-tracking/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/weijiang-xiong/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/authors/yujie-he/</loc>
+    <lastmod>2021-06-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yujie-he.github.io/project/2021-lis-drone-delivery/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url>
@@ -82,12 +170,6 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -95,12 +177,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/visual-fiducial-marker/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -163,12 +239,6 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/authors/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/tags/autonomous-driving/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -198,17 +268,6 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/publication_types/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/publication/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/tags/simultaneous-localization-and-mapping/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -216,12 +275,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/authors/yue-pan/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/authors/yujie-he/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -239,25 +292,7 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/publication_types/2/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/tags/aerial-object-tracking/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/authors/changhong-fu/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/discriminative-correlation-filter/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -269,12 +304,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/disruptor-aware-bucketing/</loc>
-    <lastmod>2020-10-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/authors/fuling-lin/</loc>
     <lastmod>2020-10-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -412,12 +441,6 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/authors/weijiang-xiong/</loc>
-    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/post/19-11-iros/</loc>
     <lastmod>2019-11-04T12:00:00+08:00</lastmod>
   </url>
@@ -442,12 +465,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/correlation-filter/</loc>
-    <lastmod>2019-08-31T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/authors/fan-li/</loc>
     <lastmod>2019-08-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
