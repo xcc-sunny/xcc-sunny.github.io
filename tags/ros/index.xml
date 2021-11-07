@@ -6,11 +6,67 @@
     <description>Recent content in ROS on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Oct., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Nov., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/ros/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-modal pedestrian behavior analysis for Qolo robot</title>
+      <link>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Research Assistant&lt;/strong&gt; at &lt;a href=&#34;https://lasa.epfl.ch/&#34; target=&#34;_blank&#34;&gt;Learning Algorithms and  Systems Laboratory (LASA)&lt;/a&gt;, EPFL since &lt;em&gt;Oct. 2021&lt;/em&gt;
+Supervisor: &lt;a href=&#34;https://people.epfl.ch/diego.paez&#34; target=&#34;_blank&#34;&gt;Dr. Diego Felipe Paez Granados&lt;/a&gt;, and &lt;a href=&#34;https://people.epfl.ch/aude.billard?lang=en&#34; target=&#34;_blank&#34;&gt;Prof. Aude Billard&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./qolo_tracking.gif&#34; alt=&#34;Qolo trajectory and tracked pedestrian in world frame&#34;  width=&#34;90%&#34;  /&gt;
+  &lt;small&gt;
+  &lt;b&gt;
+     Qolo trajectory and tracked pedestrian in world frame
+  &lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;In this work, we will create a dataset of mobile robot navigation around pedestrians from experimental data of a personal mobility device navigating autonomously around pedestrians in the streets of center Lausanne.&lt;/p&gt;
+
+&lt;p&gt;The focus will be to assess people navigation behavior around the robot by extracting trajectories and motions. I aim to build a detecting, tracking, and motion profile extraction pipeline on lidar and camera data.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./featured.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;
+  &lt;small&gt;
+  &lt;b&gt;
+    Overview of detected pedestrian from recorded rosbag and qolo robot
+  &lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary results&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./crowd_density.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./min_dist.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;dataset-and-toolkit-overview&#34;&gt;Dataset and toolkit overview&lt;/h2&gt;
+
+&lt;p&gt;🚧 To be updated!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Development of vision based algorithms to a window/balcony drone delivery</title>
@@ -101,10 +157,6 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
 &lt;!-- &lt;iframe src=&#34;https://drive.google.com/file/d/1LCtTQ2NFRRjhwrPHcfao5ApY6hocKZaQ/preview&#34; width=&#34;700&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt; --&gt;
 
 &lt;iframe src=&#34;https://drive.google.com/file/d/1VmY0fp5KuiljASgDYkci4Nhcj0Mt3HlK/preview&#34; width=&#34;700&#34; height=&#34;400&#34;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;code-videos&#34;&gt;Code &amp;amp; videos&lt;/h2&gt;
-
-&lt;p&gt;🚧 To be updated!&lt;/p&gt;
 </description>
     </item>
     

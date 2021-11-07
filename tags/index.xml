@@ -6,11 +6,74 @@
     <description>Recent content in Tags on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Oct., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Nov., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://yujie-he.github.io/tags/deep-learning/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured💡</title>
+      <link>https://yujie-he.github.io/tags/featured/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Progress⚡</title>
+      <link>https://yujie-he.github.io/tags/in-progress/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/in-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiDAR</title>
+      <link>https://yujie-he.github.io/tags/lidar/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/lidar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Vision</title>
+      <link>https://yujie-he.github.io/tags/machine-vision/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ROS</title>
+      <link>https://yujie-he.github.io/tags/ros/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/ros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://yujie-he.github.io/tags/robotics/</link>
+      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adaptive response reasoning</title>
@@ -31,15 +94,6 @@
     </item>
     
     <item>
-      <title>Featured💡</title>
-      <link>https://yujie-he.github.io/tags/featured/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/featured/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Real-time UAV tracking</title>
       <link>https://yujie-he.github.io/tags/real-time-uav-tracking/</link>
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
@@ -49,20 +103,11 @@
     </item>
     
     <item>
-      <title>In Progress⚡</title>
-      <link>https://yujie-he.github.io/tags/in-progress/</link>
+      <title>Finished😊</title>
+      <link>https://yujie-he.github.io/tags/finished/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://yujie-he.github.io/tags/in-progress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Vision</title>
-      <link>https://yujie-he.github.io/tags/machine-vision/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
+      <guid>https://yujie-he.github.io/tags/finished/</guid>
       <description></description>
     </item>
     
@@ -94,24 +139,6 @@
     </item>
     
     <item>
-      <title>ROS</title>
-      <link>https://yujie-he.github.io/tags/ros/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://yujie-he.github.io/tags/robotics/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Unmanned Aerial Vehicle</title>
       <link>https://yujie-he.github.io/tags/unmanned-aerial-vehicle/</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
@@ -126,15 +153,6 @@
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/visual-fiducial-marker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finished😊</title>
-      <link>https://yujie-he.github.io/tags/finished/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/finished/</guid>
       <description></description>
     </item>
     
@@ -180,15 +198,6 @@
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/autonomous-driving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LiDAR</title>
-      <link>https://yujie-he.github.io/tags/lidar/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/lidar/</guid>
       <description></description>
     </item>
     
@@ -288,15 +297,6 @@
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/visual-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://yujie-he.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
