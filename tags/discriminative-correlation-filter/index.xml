@@ -6,7 +6,7 @@
     <description>Recent content in Discriminative correlation filter on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Nov., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Dec., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
     <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/discriminative-correlation-filter/index.xml" rel="self" type="application/rss+xml" />
@@ -46,11 +46,11 @@ If you find this project is useful, you may cite it as:
 
 ```tex
 @article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
+    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+    pages={1-14},
+    year={2020}
 }
 
 ```
@@ -83,11 +83,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
+    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+    pages={1-14},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>

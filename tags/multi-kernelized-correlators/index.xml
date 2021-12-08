@@ -6,7 +6,7 @@
     <description>Recent content in Multi-kernelized correlators on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Nov., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Dec., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
     <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/multi-kernelized-correlators/index.xml" rel="self" type="application/rss+xml" />
@@ -32,11 +32,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
-	title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
-	author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
-	journal={Neural Computing and Applications},
-	pages={1-17},
-	year={2020}
+    title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+    author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
+    journal={Neural Computing and Applications},
+    pages={1-17},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>

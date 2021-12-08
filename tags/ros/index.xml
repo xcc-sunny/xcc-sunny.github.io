@@ -6,7 +6,7 @@
     <description>Recent content in ROS on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Nov., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Dec., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
     <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/ros/index.xml" rel="self" type="application/rss+xml" />
@@ -54,17 +54,50 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
   &lt;/small&gt;
 &lt;/center&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;preliminary-results&#34;&gt;Preliminary results&lt;/h2&gt;
+&lt;h2 id=&#34;single-sequence-evaluation&#34;&gt;Single sequence evaluation&lt;/h2&gt;
 
-&lt;p&gt;&lt;center&gt;
-  &lt;img src=&#34;./crowd_density.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Metrics&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 
-&lt;p&gt;&lt;img src=&#34;./min_dist.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;
-&lt;/center&gt;&lt;/p&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Crowd characteristics&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./crowd_density.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;80%&#34;  /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Path efficiency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./qolo_path.png&#34; alt=&#34;qolo_path&#34;  width=&#34;70%&#34;  /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Shared control performance&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./qolo_command.png&#34; alt=&#34;qolo_command&#34;  width=&#34;85%&#34;  /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;interclass-evaluation&#34;&gt;Interclass evaluation&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./comp_path.png&#34; alt=&#34;comp_path&#34;  width=&#34;85%&#34;  /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;dataset-and-toolkit-overview&#34;&gt;Dataset and toolkit overview&lt;/h2&gt;
 
-&lt;p&gt;🚧 To be updated!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;🚧 To be open-sourced!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;./single_frame_aggregate.jpg&#34; alt=&#34;single_frame_aggregate&#34;  width=&#34;95%&#34;  /&gt;
+&lt;center&gt;
+&lt;center&gt;
+Trajectory of qolo with detected pedestrians
+&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     

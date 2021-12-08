@@ -6,7 +6,7 @@
     <description>Recent content in Unmanned aerial vehicles on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Nov., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Dec., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
     <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/unmanned-aerial-vehicles/index.xml" rel="self" type="application/rss+xml" />
@@ -36,11 +36,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
+    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+    pages={1-14},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -86,11 +86,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
-	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
-	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
-	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
-	year={2020},
-	pages={1575-1582}
+    title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+    author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+    booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+    year={2020},
+    pages={1575-1582}
  }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -116,11 +116,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
-	title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-	pages={2365-2371},
-	year={2020}
+    title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+    pages={2365-2371},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -146,11 +146,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
-	title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
-	author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
-	journal={Neural Computing and Applications},
-	pages={1-17},
-	year={2020}
+    title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+    author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
+    journal={Neural Computing and Applications},
+    pages={1-17},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
