@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Changhong Fu</title>
+    <title>Changhong Fu on YUJIE HE</title>
     <link>https://yujie-he.github.io/authors/changhong-fu/</link>
-    <description>Recent content in Changhong Fu</description>
+    <description>Recent content in Changhong Fu on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Dec., 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
+      <link>https://yujie-he.github.io/publication/2021_recf_tits/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/publication/2021_recf_tits/</guid>
+      <description>&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;featured.jpg&#34; alt=&#34;ReCF_workflow&#34; /&gt;
+&lt;small&gt;Main difference between the proposed ReCF and SRDCF.&lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
@@ -33,11 +46,11 @@ If you find this project is useful, you may cite it as:
 
 ```tex
 @article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
+    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+    pages={1-14},
+    year={2020}
 }
 
 ```
@@ -70,11 +83,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
+    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+    pages={1-14},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -120,11 +133,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
-	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
-	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
-	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
-	year={2020},
-	pages={1575-1582}
+    title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+    author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+    booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+    year={2020},
+    pages={1575-1582}
  }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -150,11 +163,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
-	title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-	pages={2365-2371},
-	year={2020}
+    title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
+    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+    booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+    pages={2365-2371},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -180,11 +193,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
-	title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
-	author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
-	journal={Neural Computing and Applications},
-	pages={1-17},
-	year={2020}
+    title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+    author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
+    journal={Neural Computing and Applications},
+    pages={1-17},
+    year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>

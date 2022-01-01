@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yue Pan</title>
+    <title>Yue Pan on YUJIE HE</title>
     <link>https://yujie-he.github.io/authors/yue-pan/</link>
-    <description>Recent content in Yue Pan</description>
+    <description>Recent content in Yue Pan on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Mar, 2021 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2021</copyright>
     <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/yue-pan/index.xml" rel="self" type="application/rss+xml" />
@@ -20,20 +20,18 @@
       <guid>https://yujie-he.github.io/publication/2021_mulls_icra/</guid>
       <description>
 
+&lt;h3 id=&#34;teaser&#34;&gt;Teaser&lt;/h3&gt;
+
 &lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;featured.png&#34; alt=&#34;MULLS&#34; /&gt;
+&lt;img src=&#34;./featured.png&#34; alt=&#34;MULLS&#34;  width=&#34;80%&#34;  /&gt;
 &lt;small&gt;Pipeline of the multi-metric linear least square ICP&lt;/small&gt;
 &lt;/center&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;demo&#34;&gt;Demo&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Video&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h3 id=&#34;demo-video&#34;&gt;Demo video&lt;/h3&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/85bGD55e3-0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;600&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/85bGD55e3-0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
