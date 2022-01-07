@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Qian Tang on YUJIE HE</title>
+    <title>Qian Tang</title>
     <link>https://yujie-he.github.io/authors/qian-tang/</link>
-    <description>Recent content in Qian Tang on YUJIE HE</description>
+    <description>Recent content in Qian Tang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
     <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/qian-tang/index.xml" rel="self" type="application/rss+xml" />
@@ -36,11 +36,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
-    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-    pages={1-14},
-    year={2020}
+	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+	pages={1-14},
+	year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -66,11 +66,11 @@
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
-    title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
-    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-    booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-    pages={2365-2371},
-    year={2020}
+	title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+	pages={2365-2371},
+	year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>

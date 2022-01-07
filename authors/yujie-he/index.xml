@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yujie He on YUJIE HE</title>
+    <title>Yujie He</title>
     <link>https://yujie-he.github.io/authors/yujie-he/</link>
-    <description>Recent content in Yujie He on YUJIE HE</description>
+    <description>Recent content in Yujie He</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2022</copyright>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/yujie-he/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ReCF: Exploiting Response Reasoning for Correlation Filters in Real-Time UAV Tracking</title>
-      <link>https://yujie-he.github.io/publication/2021_recf_tits/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2021_recf_tits/</guid>
-      <description>&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;featured.jpg&#34; alt=&#34;ReCF_workflow&#34; /&gt;
-&lt;small&gt;Main difference between the proposed ReCF and SRDCF.&lt;/small&gt;
-&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square</title>
@@ -33,18 +20,20 @@
       <guid>https://yujie-he.github.io/publication/2021_mulls_icra/</guid>
       <description>
 
-&lt;h3 id=&#34;teaser&#34;&gt;Teaser&lt;/h3&gt;
-
 &lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;./featured.png&#34; alt=&#34;MULLS&#34;  width=&#34;80%&#34;  /&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;MULLS&#34; /&gt;
 &lt;small&gt;Pipeline of the multi-metric linear least square ICP&lt;/small&gt;
 &lt;/center&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;demo-video&#34;&gt;Demo video&lt;/h3&gt;
+&lt;h3 id=&#34;demo&#34;&gt;Demo&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Video&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;center&gt;&lt;/p&gt;
 
-&lt;iframe width=&#34;600&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/85bGD55e3-0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/85bGD55e3-0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;/center&gt;&lt;/p&gt;
 
@@ -93,11 +82,11 @@ If you find this project is useful, you may cite it as:
 
 ```tex
 @article{Lin2020TCSVT,
-    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-    pages={1-14},
-    year={2020}
+	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+	pages={1-14},
+	year={2020}
 }
 
 ```
@@ -130,11 +119,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
-    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-    pages={1-14},
-    year={2020}
+	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+	pages={1-14},
+	year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -180,11 +169,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
-    title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
-    author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
-    booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
-    year={2020},
-    pages={1575-1582}
+	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+	year={2020},
+	pages={1575-1582}
  }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -210,11 +199,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
-    title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
-    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-    booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-    pages={2365-2371},
-    year={2020}
+	title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+	pages={2365-2371},
+	year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
@@ -240,11 +229,11 @@ If you find this project is useful, you may cite it as:
 &lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
-    title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
-    author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
-    journal={Neural Computing and Applications},
-    pages={1-17},
-    year={2020}
+	title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+	author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
+	journal={Neural Computing and Applications},
+	pages={1-17},
+	year={2020}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>

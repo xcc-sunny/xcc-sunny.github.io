@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on YUJIE HE</title>
+    <title>Authors</title>
     <link>https://yujie-he.github.io/authors/</link>
-    <description>Recent content in Authors on YUJIE HE</description>
+    <description>Recent content in Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2021</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Apr, 2021 · Yujie HE &amp;copy; 2019 - 2022</copyright>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,81 +15,18 @@
     <item>
       <title>Changhong Fu</title>
       <link>https://yujie-he.github.io/authors/changhong-fu/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/changhong-fu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Fan Li</title>
-      <link>https://yujie-he.github.io/authors/fan-li/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/fan-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fuling Lin</title>
       <link>https://yujie-he.github.io/authors/fuling-lin/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/fuling-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Weijiang Xiong</title>
-      <link>https://yujie-he.github.io/authors/weijiang-xiong/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/weijiang-xiong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yujie He</title>
-      <link>https://yujie-he.github.io/authors/yujie-he/</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/yujie-he/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pengchuan Xiao</title>
-      <link>https://yujie-he.github.io/authors/pengchuan-xiao/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/pengchuan-xiao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yue Pan</title>
-      <link>https://yujie-he.github.io/authors/yue-pan/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/yue-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zesong Li</title>
-      <link>https://yujie-he.github.io/authors/zesong-li/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/zesong-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhenlei Shao</title>
-      <link>https://yujie-he.github.io/authors/zhenlei-shao/</link>
-      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/authors/zhenlei-shao/</guid>
       <description></description>
     </item>
     
@@ -108,6 +45,15 @@
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/juntao-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yujie He</title>
+      <link>https://yujie-he.github.io/authors/yujie-he/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/yujie-he/</guid>
       <description></description>
     </item>
     
@@ -148,22 +94,38 @@
     </item>
     
     <item>
+      <title>Weijiang Xiong</title>
+      <link>https://yujie-he.github.io/authors/weijiang-xiong/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/weijiang-xiong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fan Li</title>
+      <link>https://yujie-he.github.io/authors/fan-li/</link>
+      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/authors/fan-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://yujie-he.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JnhUmEl.png&#34; alt=&#34;&#34; width=&#34;120&#34; align=&#34;left&#34; border=&#34;5&#34; hspace=&#34;15&#34;&gt;
- &lt;strong&gt;Yujie He&lt;/strong&gt; is currently a Master student in &lt;a href=&#34;https://www.epfl.ch/education/master/programs/robotics/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Robotics&lt;/strong&gt;&lt;/a&gt; at &lt;a href=&#34;https://epfl.ch/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;École polytechnique fédérale de Lausanne (EPFL)&lt;/strong&gt;&lt;/a&gt;, Switzerland. Before that, I received my Bachelor&amp;rsquo;s Degree in Mechanical Engineering (Mechatronics Track) with Excellent Graduate Honor in 2020 from &lt;a href=&#34;https://www.tongji.edu.cn/&#34; target=&#34;_blank&#34;&gt;Tongji University&lt;/a&gt;, Shanghai, China.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;Yujie He&lt;/strong&gt; (in Chinese: 何宇杰) is a Master student in &lt;a href=&#34;https://www.epfl.ch/education/master/programs/robotics/&#34; target=&#34;_blank&#34;&gt;Robotics&lt;/a&gt; at &lt;a href=&#34;https://epfl.ch/&#34; target=&#34;_blank&#34;&gt;École polytechnique fédérale de Lausanne (EPFL)&lt;/a&gt;, Switzerland. Before that, I received my Bachelor&amp;rsquo;s Degree in Mechanical Engineering (Mechatronics Track) with Excellent Graduate Honor in 2020 from &lt;a href=&#34;https://www.tongji.edu.cn/&#34; target=&#34;_blank&#34;&gt;Tongji University&lt;/a&gt;, Shanghai, China.&lt;/p&gt;
 
-&lt;p&gt;&amp;ldquo;&lt;em&gt;Diversity is essential to happiness&lt;/em&gt;&amp;rdquo; from Philosopher &lt;a href=&#34;https://en.wikipedia.org/wiki/Bertrand_Russell&#34; target=&#34;_blank&#34;&gt;Bertrand Russell&lt;/a&gt; is my life motto, which inspires me to explore the interdisciplinary realm of robotic intelligence through industrial internship and research exploration.
-Since October, I have been a research assistant at &lt;a href=&#34;http://lasa.epfl.ch/&#34; target=&#34;_blank&#34;&gt;LASA&lt;/a&gt;, focusing on &lt;strong&gt;multi-modal pedestrian behavior analysis&lt;/strong&gt; for &lt;strong&gt;Qolo&lt;/strong&gt; robot of &lt;a href=&#34;http://crowdbot.eu/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;CrowdBot&lt;/strong&gt;&lt;/a&gt; project under the supervision of &lt;a href=&#34;[Diego](https://people.epfl.ch/diego.paez)&#34; target=&#34;_blank&#34;&gt;Diego Paez-Granados&lt;/a&gt;.
-Between Feb. to Jul. 2021, I conducted the semester project on &lt;strong&gt;vision-based navigation for drone delivery&lt;/strong&gt; supervised by &lt;a href=&#34;https://people.epfl.ch/valentin.wueest&#34; target=&#34;_blank&#34;&gt;Valentin Wüest&lt;/a&gt; and &lt;a href=&#34;https://people.epfl.ch/przemyslaw.kornatowski&#34; target=&#34;_blank&#34;&gt;Dr. Przemyslaw Kornatowski&lt;/a&gt; at &lt;a href=&#34;https://lis.epfl.ch&#34; target=&#34;_blank&#34;&gt;LIS&lt;/a&gt;.
+&lt;p&gt;&amp;ldquo;&lt;em&gt;Diversity is essential to happiness&lt;/em&gt;&amp;rdquo; from Philosopher &lt;a href=&#34;https://en.wikipedia.org/wiki/Bertrand_Russell&#34; target=&#34;_blank&#34;&gt;Bertrand Russell&lt;/a&gt; is my life motto, which inspired me to explore &lt;strong&gt;the interdisciplinary realm of robotic intelligence&lt;/strong&gt; through industrial internship and research exploration.
+Since Oct 2020, I have been working on &lt;strong&gt;pedestrian intention prediction&lt;/strong&gt; advised by Saeed Saadatnejad and &lt;a href=&#34;https://people.epfl.ch/alexandre.alahi/?lang=en&#34; target=&#34;_blank&#34;&gt;Prof. Alexandre Alahi&lt;/a&gt; at &lt;a href=&#34;https://www.epfl.ch/labs/vita/&#34; target=&#34;_blank&#34;&gt;VITA&lt;/a&gt;.
 Previously, I worked on &lt;strong&gt;visual tracking for unmanned aerial vehicles&lt;/strong&gt; supervised by &lt;a href=&#34;https://vision4robotics.github.io/authors/changhong-fu/&#34; target=&#34;_blank&#34;&gt;Prof. Changhong Fu&lt;/a&gt; in &lt;a href=&#34;https://vision4robotics.github.io/&#34; target=&#34;_blank&#34;&gt;Vision4Robotics Group&lt;/a&gt; during my bachelor study.&lt;/p&gt;
 
-&lt;p&gt;My current research interests are mostly focused on &lt;strong&gt;incorporating cutting-edge machine learning approaches into visual perception for robots&lt;/strong&gt;. In addition, I am collaborating closely with &lt;a href=&#34;https://www.mech.hku.hk/academic-staff/Lu-P.&#34; target=&#34;_blank&#34;&gt;Prof. Peng Lu&lt;/a&gt; from &lt;a href=&#34;https://web.hku.hk/~lupeng/arclab.html&#34; target=&#34;_blank&#34;&gt;ArcLab @ HKU&lt;/a&gt; and &lt;a href=&#34;https://www.hesaitech.com/en/about&#34; target=&#34;_blank&#34;&gt;Dr. Kai Sun&lt;/a&gt; from &lt;a href=&#34;https://www.hesaitech.com/en/&#34; target=&#34;_blank&#34;&gt;Hesai Technology&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My current research interests mainly focus on &lt;strong&gt;the incorporation of state-of-the-art machine learning techniques into visual perception for robotics&lt;/strong&gt;. Besides, I am closely working with &lt;a href=&#34;https://www.mech.hku.hk/academic-staff/Lu-P.&#34; target=&#34;_blank&#34;&gt;Prof. Peng Lu&lt;/a&gt; from &lt;a href=&#34;https://web.hku.hk/~lupeng/arclab.html&#34; target=&#34;_blank&#34;&gt;ArcLab&lt;/a&gt; @ HKU and &lt;a href=&#34;https://www.hesaitech.com/en/about&#34; target=&#34;_blank&#34;&gt;Dr. Kai Sun&lt;/a&gt; from &lt;a href=&#34;https://www.hesaitech.com/en/&#34; target=&#34;_blank&#34;&gt;Hesai Technology&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;For more info, please refer to the latest &lt;a href=&#34;https://yujie-he.github.io/files/Yujie_HE_Resume.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;CV&lt;/strong&gt;&lt;/a&gt; here.&lt;/p&gt;
+&lt;p&gt;For more info, you can refer to the latest &lt;a href=&#34;https://yujie-he.github.io/files/Yujie_HE_Resume.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;CV&lt;/strong&gt;&lt;/a&gt; here.&lt;/p&gt;
 
 &lt;hr /&gt;
 

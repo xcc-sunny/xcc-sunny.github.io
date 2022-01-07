@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Juntao Xu on YUJIE HE</title>
+    <title>Juntao Xu</title>
     <link>https://yujie-he.github.io/authors/juntao-xu/</link>
-    <description>Recent content in Juntao Xu on YUJIE HE</description>
+    <description>Recent content in Juntao Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2021</copyright>
+    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
     <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/authors/juntao-xu/index.xml" rel="self" type="application/rss+xml" />
@@ -33,11 +33,11 @@ If you find this project is useful, you may cite it as:
 
 ```tex
 @article{Lin2020TCSVT,
-    title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-    author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-    booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-    pages={1-14},
-    year={2020}
+	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+	pages={1-14},
+	year={2020}
 }
 
 ```
