@@ -7,10 +7,161 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Monocular Visual Odometry Pipeline</title>
+      <link>https://yujie-he.github.io/project/2022-visual-odometry/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2022-visual-odometry/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Final project&lt;/strong&gt; in &lt;a href=&#34;https://rpg.ifi.uzh.ch/teaching.html&#34; target=&#34;_blank&#34;&gt;UZH-DINF2039 Vision Algorithms for Mobile Robotics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Members: Yujie He and &lt;a href=&#34;https://github.com/Jianhao-zheng/&#34; target=&#34;_blank&#34;&gt;Jianhao Zheng&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lecturer:  &lt;a href=&#34;https://rpg.ifi.uzh.ch/people_scaramuzza.html&#34; target=&#34;_blank&#34;&gt;Prof. Dr. Davide Scaramuzza&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;Mini project for &lt;a href=&#34;http://rpg.ifi.uzh.ch/teaching.html&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Vision Algorithms for Mobile Robots&lt;/em&gt;&lt;/a&gt; given by &lt;a href=&#34;http://rpg.ifi.uzh.ch/people_scaramuzza.html&#34; target=&#34;_blank&#34;&gt;Prof. Davide Scaramuzza&lt;/a&gt;, 2021&lt;/p&gt;
+
+&lt;p&gt;Implementation of a working, simple, monocular visual odometry (VO) pipeline with the following implementation details:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;KLT-based or descriptor matching for bootstrapping initialization&lt;/li&gt;
+&lt;li&gt;KLT Tracking of feature points across frames following by RANSAC&lt;/li&gt;
+&lt;li&gt;Triangulation of new landmarks&lt;/li&gt;
+&lt;li&gt;Local pose refinement through optimization&lt;/li&gt;
+&lt;li&gt;Bundle adjustment for better pose estimation&lt;/li&gt;
+&lt;li&gt;Release two &lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline#custom-datasets&#34; target=&#34;_blank&#34;&gt;custom sequences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://youtube.com/playlist?list=PLisWEer2ynw1Ws1_km6y-xXDAIyvJ9weM&#34; target=&#34;_blank&#34;&gt;YouTube playlist - VAMR 2021Fall Mini Project - VO Demo - J. Zheng &amp;amp; Y. He&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Test sequences&lt;/th&gt;
+&lt;th&gt;Demo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;KITTI seq05&lt;/strong&gt; [&lt;a href=&#34;https://www.youtube.com/watch?v=ByywzaIwTSM&amp;amp;list=PLisWEer2ynw1Ws1_km6y-xXDAIyvJ9weM&amp;amp;index=1&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt;] [&lt;a href=&#34;http://rpg.ifi.uzh.ch/docs/teaching/2021/kitti05.zip&#34; target=&#34;_blank&#34;&gt;data (1.4GB)&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/blob/master/gifs/kitti.gif&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/raw/master/gifs/kitti.gif&#34; alt=&#34;epfl_parking&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;malaga seq07&lt;/strong&gt; [&lt;a href=&#34;https://www.youtube.com/watch?v=l-Jklm77tNg&amp;amp;list=PLisWEer2ynw1Ws1_km6y-xXDAIyvJ9weM&amp;amp;index=2&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt;] [&lt;a href=&#34;http://rpg.ifi.uzh.ch/docs/teaching/2021/malaga-urban-dataset-extract-07.zip&#34; target=&#34;_blank&#34;&gt;data (4.4GB)&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/blob/master/gifs/malaga.gif&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/raw/master/gifs/malaga.gif&#34; alt=&#34;epfl_parking&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;parking&lt;/strong&gt; [&lt;a href=&#34;https://www.youtube.com/watch?v=Xut0iuFSy8o&amp;amp;list=PLisWEer2ynw1Ws1_km6y-xXDAIyvJ9weM&amp;amp;index=3&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt;] [&lt;a href=&#34;http://rpg.ifi.uzh.ch/docs/teaching/2021/parking.zip&#34; target=&#34;_blank&#34;&gt;data (208 MB)&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/blob/master/gifs/parking.gif&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/raw/master/gifs/parking.gif&#34; alt=&#34;epfl_parking&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;epfl_parking&lt;/strong&gt; [&lt;a href=&#34;https://www.youtube.com/watch?v=eWNpX07L4_A&amp;amp;list=PLisWEer2ynw1Ws1_km6y-xXDAIyvJ9weM&amp;amp;index=4&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt;] [&lt;a href=&#34;https://drive.google.com/file/d/1dWRwkZaB_mY21HzAGXzcXKBwg_2cBn5c/view&#34; target=&#34;_blank&#34;&gt;data (675 MB)&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/blob/master/gifs/epfl_parking.gif&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/raw/master/gifs/epfl_parking.gif&#34; alt=&#34;epfl_parking&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;lausanne_center_nav&lt;/strong&gt; [&lt;a href=&#34;https://www.youtube.com/watch?v=qSgeN7ElPik&amp;amp;list=PLisWEer2ynw1Ws1_km6y-xXDAIyvJ9weM&amp;amp;index=5&#34; target=&#34;_blank&#34;&gt;video&lt;/a&gt;] [&lt;a href=&#34;https://drive.google.com/file/d/1e1VCh19S4wyayX6s4J-8J6ad5YZx-B9a/view?usp=sharing&#34; target=&#34;_blank&#34;&gt;data (58.8 MB)&lt;/a&gt;]&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/blob/master/gifs/lausanne_center_nav.gif&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline/raw/master/gifs/lausanne_center_nav.gif&#34; alt=&#34;epfl_parking&#34; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;codebase&#34;&gt;Codebase&lt;/h2&gt;
+
+&lt;h3 id=&#34;machine-specifications&#34;&gt;Machine specifications&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CPU: AMD Ryzen 7 5800H, 3.2 GHz, 16 logical processors&lt;/li&gt;
+&lt;li&gt;RAM: 16GB&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;dev-environment&#34;&gt;Dev Environment&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Test passed&lt;/strong&gt; : matlab-2021b/matlab-2020b&lt;/li&gt;
+&lt;li&gt;Toolbox used
+
+&lt;ul&gt;
+&lt;li&gt;Computer Vision Toolbox&lt;/li&gt;
+&lt;li&gt;Image Processing Toolbox&lt;/li&gt;
+&lt;li&gt;Optimization Toolbox&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;how-to-run&#34;&gt;How to run&lt;/h3&gt;
+
+&lt;p&gt;Download dataset and copy them to the right folder. For details on setting data, please refer to &lt;a href=&#34;https://github.com/hibetterheyj/Visual-Odometry-Pipeline#data&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Data&lt;/strong&gt;&lt;/a&gt;. To test the VO pipeline without bundle adjustment, run &lt;code&gt;main_demo.m&lt;/code&gt;. Change variable &lt;code&gt;ds&lt;/code&gt; to switch the testing dataset.&lt;/p&gt;
+
+&lt;p&gt;For VO with bundle adjustment, plese run &lt;code&gt;main_BA.m&lt;/code&gt; and make sure &lt;code&gt;hyper_paras.is_BA&lt;/code&gt; is &lt;code&gt;true&lt;/code&gt;. (For now, only tested in parking dataset, ds = 2)&lt;/p&gt;
+
+&lt;h3 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;Visual-Odometry-Pipeline/
+├── Continuous_operation # (matlab) implemented algorithms about continuous operation
+├── Initialization # (matlab) implemented algorithms about initialization
+├── utils # (matlab) utility function for data processing and visualization in the pipeline
+├── eval_notebook # (python) scripts to evaluate performance between different methods
+├── main_BA.m # (matlab) script to demonstrate implemented method with bundle adjustment on `parking` data
+├── main_demo.m # (matlab) script to demonstrate implemented method without bundle adjustment for every dataset
+├── main_eval.m # (matlab) script to batch evaluate the implemented method with different features on `KITTI seq05` data
+├── data # 3 data sequences provided by VAME team and 2 customized sequences
+├── gifs # demonstration gifs
+├── README.md
+├── ...
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+
+&lt;h3 id=&#34;provided-datasets&#34;&gt;Provided datasets&lt;/h3&gt;
+
+&lt;p&gt;Download data from &lt;a href=&#34;http://rpg.ifi.uzh.ch/teaching.html&#34; target=&#34;_blank&#34;&gt;RPG VAME course website&lt;/a&gt; and place them in the following structure&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;├── data
+│   ├── kitti
+│   └── malaga
+│   └── parking
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;customized-datasets&#34;&gt;Customized datasets&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;For more details, you could refer to readme in following subfolder&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jianhao-zheng/Visual-Odometry-Pipeline/tree/master/data/epfl_parking&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;epfl_parking&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Jianhao-zheng/Visual-Odometry-Pipeline/tree/master/data/lausanne_center_nav&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;lausanne_center_nav&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;related-repos&#34;&gt;Related repos&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hibetterheyj&#34; target=&#34;_blank&#34;&gt;hibetterheyj&lt;/a&gt;/&lt;strong&gt;&lt;a href=&#34;https://github.com/hibetterheyj/VideoIMUCapture-Android&#34; target=&#34;_blank&#34;&gt;VideoIMUCapture-Android&lt;/a&gt;&lt;/strong&gt; for camera calibration and image preprocessing (undistortion &amp;amp; resize)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-modal pedestrian behavior analysis for Qolo robot</title>

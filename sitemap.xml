@@ -23,13 +23,54 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/deep-learning/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
+    <loc>https://yujie-he.github.io/tags/featured/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/featured/</loc>
+    <loc>https://yujie-he.github.io/tags/finished/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/machine-vision/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/2022-visual-odometry/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/robotics/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/deep-learning/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,42 +88,12 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/machine-vision/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/project/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/tags/ros/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/robotics/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/</loc>
-    <lastmod>2021-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/</loc>
     <lastmod>2021-11-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -166,12 +177,6 @@
   <url>
     <loc>https://yujie-he.github.io/project/2021-lis-drone-delivery/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/finished/</loc>
-    <lastmod>2021-06-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

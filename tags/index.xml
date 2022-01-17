@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Featured💡</title>
+      <link>https://yujie-he.github.io/tags/featured/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finished😊</title>
+      <link>https://yujie-he.github.io/tags/finished/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/finished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Vision</title>
+      <link>https://yujie-he.github.io/tags/machine-vision/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotics</title>
+      <link>https://yujie-he.github.io/tags/robotics/</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/robotics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning</title>
@@ -18,15 +54,6 @@
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Featured💡</title>
-      <link>https://yujie-he.github.io/tags/featured/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/featured/</guid>
       <description></description>
     </item>
     
@@ -49,29 +76,11 @@
     </item>
     
     <item>
-      <title>Machine Vision</title>
-      <link>https://yujie-he.github.io/tags/machine-vision/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ROS</title>
       <link>https://yujie-he.github.io/tags/ros/</link>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/ros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robotics</title>
-      <link>https://yujie-he.github.io/tags/robotics/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/robotics/</guid>
       <description></description>
     </item>
     
@@ -99,15 +108,6 @@
       <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/real-time-uav-tracking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finished😊</title>
-      <link>https://yujie-he.github.io/tags/finished/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/finished/</guid>
       <description></description>
     </item>
     
