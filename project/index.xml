@@ -6,11 +6,100 @@
     <description>Recent content in Projects on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Feb., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multi-modal pedestrian behavior analysis for Qolo robot</title>
+      <link>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Research Assistant&lt;/strong&gt; at &lt;a href=&#34;https://lasa.epfl.ch/&#34; target=&#34;_blank&#34;&gt;Learning Algorithms and  Systems Laboratory (LASA)&lt;/a&gt;, EPFL since &lt;em&gt;Oct. 2021&lt;/em&gt;
+Supervisor: &lt;a href=&#34;https://people.epfl.ch/diego.paez&#34; target=&#34;_blank&#34;&gt;Dr. Diego Felipe Paez Granados&lt;/a&gt;, and &lt;a href=&#34;https://people.epfl.ch/aude.billard?lang=en&#34; target=&#34;_blank&#34;&gt;Prof. Aude Billard&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./qolo_tracking.gif&#34; alt=&#34;Qolo trajectory and tracked pedestrian in world frame&#34;  width=&#34;90%&#34;  /&gt;
+  &lt;small&gt;
+  &lt;b&gt;
+     Qolo trajectory and tracked pedestrian in world frame
+  &lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;In this work, we will create a dataset of mobile robot navigation around pedestrians from experimental data of a personal mobility device navigating autonomously around pedestrians in the streets of center Lausanne.&lt;/p&gt;
+
+&lt;p&gt;The focus will be to assess people navigation behavior around the robot by extracting trajectories and motions. I aim to build a detecting, tracking, and motion profile extraction pipeline on lidar and camera data.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+  &lt;img src=&#34;./featured.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;
+  &lt;small&gt;
+  &lt;b&gt;
+    Overview of detected pedestrian from recorded rosbag and qolo robot
+  &lt;/b&gt;
+  &lt;/small&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;single-sequence-evaluation&#34;&gt;Single sequence evaluation&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Metrics&lt;/th&gt;
+&lt;th&gt;Example&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Crowd characteristics&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./crowd_density.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;80%&#34;  /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Path efficiency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./qolo_path.png&#34; alt=&#34;qolo_path&#34;  width=&#34;70%&#34;  /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Shared control performance&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;img src=&#34;./qolo_command.png&#34; alt=&#34;qolo_command&#34;  width=&#34;85%&#34;  /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;interclass-evaluation&#34;&gt;Interclass evaluation&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./comp_path.png&#34; alt=&#34;comp_path&#34;  width=&#34;85%&#34;  /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;dataset-and-toolkit-overview&#34;&gt;Dataset and toolkit overview&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Code available in &lt;a href=&#34;https://github.com/epfl-lasa/crowdbot-evaluation-tools&#34; target=&#34;_blank&#34;&gt;epfl-lasa/&lt;strong&gt;crowdbot-evaluation-tools&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;img src=&#34;./single_frame_aggregate.jpg&#34; alt=&#34;single_frame_aggregate&#34;  width=&#34;95%&#34;  /&gt;
+&lt;center&gt;
+&lt;center&gt;
+Trajectory of qolo with detected pedestrians
+&lt;/center&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Monocular Visual Odometry Pipeline</title>
@@ -160,95 +249,6 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/hibetterheyj&#34; target=&#34;_blank&#34;&gt;hibetterheyj&lt;/a&gt;/&lt;strong&gt;&lt;a href=&#34;https://github.com/hibetterheyj/VideoIMUCapture-Android&#34; target=&#34;_blank&#34;&gt;VideoIMUCapture-Android&lt;/a&gt;&lt;/strong&gt; for camera calibration and image preprocessing (undistortion &amp;amp; resize)&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multi-modal pedestrian behavior analysis for Qolo robot</title>
-      <link>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</guid>
-      <description>
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Research Assistant&lt;/strong&gt; at &lt;a href=&#34;https://lasa.epfl.ch/&#34; target=&#34;_blank&#34;&gt;Learning Algorithms and  Systems Laboratory (LASA)&lt;/a&gt;, EPFL since &lt;em&gt;Oct. 2021&lt;/em&gt;
-Supervisor: &lt;a href=&#34;https://people.epfl.ch/diego.paez&#34; target=&#34;_blank&#34;&gt;Dr. Diego Felipe Paez Granados&lt;/a&gt;, and &lt;a href=&#34;https://people.epfl.ch/aude.billard?lang=en&#34; target=&#34;_blank&#34;&gt;Prof. Aude Billard&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
-HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
-
-&lt;h2 id=&#34;demo&#34;&gt;Demo&lt;/h2&gt;
-
-&lt;p&gt;&lt;center&gt;
-  &lt;img src=&#34;./qolo_tracking.gif&#34; alt=&#34;Qolo trajectory and tracked pedestrian in world frame&#34;  width=&#34;90%&#34;  /&gt;
-  &lt;small&gt;
-  &lt;b&gt;
-     Qolo trajectory and tracked pedestrian in world frame
-  &lt;/b&gt;
-  &lt;/small&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;In this work, we will create a dataset of mobile robot navigation around pedestrians from experimental data of a personal mobility device navigating autonomously around pedestrians in the streets of center Lausanne.&lt;/p&gt;
-
-&lt;p&gt;The focus will be to assess people navigation behavior around the robot by extracting trajectories and motions. I aim to build a detecting, tracking, and motion profile extraction pipeline on lidar and camera data.&lt;/p&gt;
-
-&lt;p&gt;&lt;center&gt;
-  &lt;img src=&#34;./featured.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;60%&#34;  /&gt;
-  &lt;small&gt;
-  &lt;b&gt;
-    Overview of detected pedestrian from recorded rosbag and qolo robot
-  &lt;/b&gt;
-  &lt;/small&gt;
-&lt;/center&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;single-sequence-evaluation&#34;&gt;Single sequence evaluation&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Metrics&lt;/th&gt;
-&lt;th&gt;Example&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Crowd characteristics&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./crowd_density.png&#34; alt=&#34;dataset_qolo_overview&#34;  width=&#34;80%&#34;  /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Path efficiency&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./qolo_path.png&#34; alt=&#34;qolo_path&#34;  width=&#34;70%&#34;  /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Shared control performance&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;img src=&#34;./qolo_command.png&#34; alt=&#34;qolo_command&#34;  width=&#34;85%&#34;  /&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;interclass-evaluation&#34;&gt;Interclass evaluation&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;./comp_path.png&#34; alt=&#34;comp_path&#34;  width=&#34;85%&#34;  /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;dataset-and-toolkit-overview&#34;&gt;Dataset and toolkit overview&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;🚧 To be open-sourced!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;center&gt;
-&lt;img src=&#34;./single_frame_aggregate.jpg&#34; alt=&#34;single_frame_aggregate&#34;  width=&#34;95%&#34;  /&gt;
-&lt;center&gt;
-&lt;center&gt;
-Trajectory of qolo with detected pedestrians
-&lt;/center&gt;&lt;/p&gt;
 </description>
     </item>
     

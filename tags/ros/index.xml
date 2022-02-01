@@ -6,8 +6,8 @@
     <description>Recent content in ROS on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Jan., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Feb., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/ros/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Multi-modal pedestrian behavior analysis for Qolo robot</title>
       <link>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</link>
-      <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</guid>
       <description>
@@ -89,7 +89,7 @@ HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
 &lt;h2 id=&#34;dataset-and-toolkit-overview&#34;&gt;Dataset and toolkit overview&lt;/h2&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;🚧 To be open-sourced!&lt;/p&gt;
+&lt;p&gt;Code available in &lt;a href=&#34;https://github.com/epfl-lasa/crowdbot-evaluation-tools&#34; target=&#34;_blank&#34;&gt;epfl-lasa/&lt;strong&gt;crowdbot-evaluation-tools&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;center&gt;
