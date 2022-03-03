@@ -1,66 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yiming Li</title>
-    <link>https://yujie-he.github.io/authors/yiming-li/</link>
-    <description>Recent content in Yiming Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Last updated on Feb., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yujie-he.github.io/authors/yiming-li/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters</title>
-      <link>https://yujie-he.github.io/publication/2020_tacf_iros/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020_tacf_iros/</guid>
-      <description>
-
-&lt;!--
-![TACF](featured.jpg)
-&lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;
---&gt;
-
-&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Presentation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XlFgz8h4dts&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tracking results demo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4IWKLmRoS38&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
-
-&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
-	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
-	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
-	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
-	year={2020},
-	pages={1575-1582}
- }
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>
+			Yiming Li
+		</title>
+		<link>
+			https://yujie-he.github.io/authors/yiming-li/
+		</link>
+		<description>
+			Recent content in Yiming Li
+		</description>
+		<generator>
+			Source Themes Academic (https://sourcethemes.com/academic/)
+		</generator>
+		<language>
+			en-us
+		</language>
+		<copyright>
+			Last updated on Mar 3, 2022 · Yujie HE &amp;copy; 2019 - 2022
+		</copyright>
+		<lastBuildDate>
+			Wed, 02 Sep 2020 00:00:00 +0000
+		</lastBuildDate>
+		<link href="https://yujie-he.github.io/authors/yiming-li/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>
+				Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2020_tacf_iros/
+			</link>
+			<pubDate>
+				Wed, 02 Sep 2020 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2020_tacf_iros/
+			</guid>
+			<description>
+				&lt;!--
+				![TACF](featured.jpg)
+				&lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;
+				--&gt;
+				
+				&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
+				
+				&lt;ul&gt;
+				&lt;li&gt;Presentation&lt;/li&gt;
+				&lt;/ul&gt;
+				
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XlFgz8h4dts&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+				
+				&lt;ul&gt;
+				&lt;li&gt;Tracking results demo&lt;/li&gt;
+				&lt;/ul&gt;
+				
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4IWKLmRoS38&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+				
+				&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+				
+				&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+				
+				&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
+				title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+				author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+				booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+				year={2020},
+				pages={1575-1582}
+				}
+				&lt;/code&gt;&lt;/pre&gt;
+			</description>
+		</item>
+	</channel>
 </rss>

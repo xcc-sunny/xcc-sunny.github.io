@@ -1,211 +1,256 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Changhong Fu</title>
-    <link>https://yujie-he.github.io/authors/changhong-fu/</link>
-    <description>Recent content in Changhong Fu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>Last updated on Feb., 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://yujie-he.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking</title>
-      <link>https://yujie-he.github.io/publication/2020-ibri-tgrs/</link>
-      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020-ibri-tgrs/</guid>
-      <description>&lt;!--
-
-&lt;center&gt;
-
-![BiCF_comp](featured.png)
-&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;
-
-&lt;/center&gt;
-
-### Reference
-
-If you find this project is useful, you may cite it as:
-
-```tex
-@article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
-}
-
-```
-
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking</title>
-      <link>https://yujie-he.github.io/publication/2020-tbbicf-tcsvt/</link>
-      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020-tbbicf-tcsvt/</guid>
-      <description>
-
-&lt;!--
-
-&lt;center&gt;
-
-![BiCF_comp](featured.png)
-&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;
-
-&lt;/center&gt;
-
---&gt;
-
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
-
-&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
-	title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
-	pages={1-14},
-	year={2020}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters</title>
-      <link>https://yujie-he.github.io/publication/2020_tacf_iros/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020_tacf_iros/</guid>
-      <description>
-
-&lt;!--
-![TACF](featured.jpg)
-&lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;
---&gt;
-
-&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Presentation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XlFgz8h4dts&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Tracking results demo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4IWKLmRoS38&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
-
-&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
-	title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
-	author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
-	booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
-	year={2020},
-	pages={1575-1582}
- }
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking</title>
-      <link>https://yujie-he.github.io/publication/2020_bicf_icra/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020_bicf_icra/</guid>
-      <description>
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BiCF_comp&#34; /&gt;
-&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
-
-&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
-	title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
-	author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
-	booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
-	pages={2365-2371},
-	year={2020}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters</title>
-      <link>https://yujie-he.github.io/publication/2020_mkct_ncaa/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2020_mkct_ncaa/</guid>
-      <description>
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
-&lt;small&gt;Main structure of the proposed tracking approach&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
-
-&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
-	title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
-	author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
-	journal={Neural Computing and Applications},
-	pages={1-17},
-	year={2020}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sample Purification-Aware Correlation Filters for UAV Tracking with Cooperative Deep Features</title>
-      <link>https://yujie-he.github.io/publication/2019_spcf_irosw/</link>
-      <pubDate>Sat, 31 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/publication/2019_spcf_irosw/</guid>
-      <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;center&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SPCF_comp&#34; /&gt;
-&lt;small&gt;Comparison between traditional CF-based and proposed SPCF tracker&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>
+			Changhong Fu
+		</title>
+		<link>
+			https://yujie-he.github.io/authors/changhong-fu/
+		</link>
+		<description>
+			Recent content in Changhong Fu
+		</description>
+		<generator>
+			Source Themes Academic (https://sourcethemes.com/academic/)
+		</generator>
+		<language>
+			en-us
+		</language>
+		<copyright>
+			Last updated on Mar 3, 2022 · Yujie HE &amp;copy; 2019 - 2022
+		</copyright>
+		<lastBuildDate>
+			Wed, 07 Oct 2020 00:00:00 +0000
+		</lastBuildDate>
+		<link href="https://yujie-he.github.io/authors/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
+		<item>
+			<title>
+				Disruptor-Aware Interval-Based Response Inconsistency for Correlation Filters in Real-Time Aerial Tracking
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2020-ibri-tgrs/
+			</link>
+			<pubDate>
+				Wed, 07 Oct 2020 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2020-ibri-tgrs/
+			</guid>
+			<description>
+				&lt;!--
+				
+				&lt;center&gt;
+				
+				![BiCF_comp](featured.png)
+				&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;
+				
+				&lt;/center&gt;
+				
+				### Reference
+				
+				If you find this project is useful, you may cite it as:
+				
+				```tex
+				@article{Lin2020TCSVT,
+				title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+				author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+				booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+				pages={1-14},
+				year={2020}
+				}
+				
+				```
+				
+				--&gt;
+			</description>
+		</item>
+		<item>
+			<title>
+				Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2020-tbbicf-tcsvt/
+			</link>
+			<pubDate>
+				Fri, 11 Sep 2020 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2020-tbbicf-tcsvt/
+			</guid>
+			<description>
+				&lt;!--
+				
+				&lt;center&gt;
+				
+				![BiCF_comp](featured.png)
+				&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;
+				
+				&lt;/center&gt;
+				
+				--&gt;
+				
+				&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+				
+				&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+				
+				&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Lin2020TCSVT,
+				title={{Learning Temporary Block-Based Bidirectional Incongruity-Aware Correlation Filters for Efficient UAV Object Tracking}},
+				author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+				booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+				pages={1-14},
+				year={2020}
+				}
+				&lt;/code&gt;&lt;/pre&gt;
+			</description>
+		</item>
+		<item>
+			<title>
+				Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2020_tacf_iros/
+			</link>
+			<pubDate>
+				Wed, 02 Sep 2020 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2020_tacf_iros/
+			</guid>
+			<description>
+				&lt;!--
+				![TACF](featured.jpg)
+				&lt;small&gt;Comparison between baseline KCC tracker and the proposed TACF tracker&lt;/small&gt;
+				--&gt;
+				
+				&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
+				
+				&lt;ul&gt;
+				&lt;li&gt;Presentation&lt;/li&gt;
+				&lt;/ul&gt;
+				
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/XlFgz8h4dts&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+				
+				&lt;ul&gt;
+				&lt;li&gt;Tracking results demo&lt;/li&gt;
+				&lt;/ul&gt;
+				
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4IWKLmRoS38&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+				
+				&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+				
+				&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+				
+				&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{He2020IROS,
+				title={{Towards Robust Visual Tracking for Unmanned Aerial Vehicle with Tri-Attentional Correlation Filters}},
+				author={He, Yujie and Fu, Changhong and Lin, Fuling and Li, Yiming and Lu, Peng},
+				booktitle={Proceedings of the IEEE International Conference on Intelligent Robots and Systems (IROS)},
+				year={2020},
+				pages={1575-1582}
+				}
+				&lt;/code&gt;&lt;/pre&gt;
+			</description>
+		</item>
+		<item>
+			<title>
+				BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2020_bicf_icra/
+			</link>
+			<pubDate>
+				Fri, 28 Feb 2020 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2020_bicf_icra/
+			</guid>
+			<description>
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;BiCF_comp&#34; /&gt;
+				&lt;small&gt;Comparison between discriminative correlation filter (DCF) and the proposed BiCF&lt;/small&gt;&lt;/p&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+				
+				&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+				
+				&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+				
+				&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@inproceedings{Lin2020ICRA,
+				title={{BiCF: Learning Bidirectional Incongruity-Aware Correlation Filter for Efficient UAV Object Tracking}},
+				author={Lin, Fuling and Fu, Changhong and He, Yujie and Guo, Fuyu and Tang, Qian},
+				booktitle={Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)},
+				pages={2365-2371},
+				year={2020}
+				}
+				&lt;/code&gt;&lt;/pre&gt;
+			</description>
+		</item>
+		<item>
+			<title>
+				Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2020_mkct_ncaa/
+			</link>
+			<pubDate>
+				Thu, 05 Dec 2019 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2020_mkct_ncaa/
+			</guid>
+			<description>
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MKCT_workflow&#34; /&gt;
+				&lt;small&gt;Main structure of the proposed tracking approach&lt;/small&gt;&lt;/p&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+				
+				&lt;h3 id=&#34;reference&#34;&gt;Reference&lt;/h3&gt;
+				
+				&lt;p&gt;If you find this project is useful, you may cite it as:&lt;/p&gt;
+				
+				&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;@article{Fu2020NCAA,
+				title={{Robust Multi-Kernelized Correlators for UAV Tracking with Adaptive Context Analysis and Dynamic Weighted Filters}},
+				author={Fu, Changhong and He, Yujie and Lin, Fuling and Xiong, Weijiang},
+				journal={Neural Computing and Applications},
+				pages={1-17},
+				year={2020}
+				}
+				&lt;/code&gt;&lt;/pre&gt;
+			</description>
+		</item>
+		<item>
+			<title>
+				Sample Purification-Aware Correlation Filters for UAV Tracking with Cooperative Deep Features
+			</title>
+			<link>
+				https://yujie-he.github.io/publication/2019_spcf_irosw/
+			</link>
+			<pubDate>
+				Sat, 31 Aug 2019 00:00:00 +0000
+			</pubDate>
+			<guid>
+				https://yujie-he.github.io/publication/2019_spcf_irosw/
+			</guid>
+			<description>
+				&lt;hr /&gt;
+				
+				&lt;p&gt;&lt;center&gt;&lt;/p&gt;
+				
+				&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;SPCF_comp&#34; /&gt;
+				&lt;small&gt;Comparison between traditional CF-based and proposed SPCF tracker&lt;/small&gt;&lt;/p&gt;
+				
+				&lt;p&gt;&lt;/center&gt;&lt;/p&gt;
+			</description>
+		</item>
+	</channel>
 </rss>
