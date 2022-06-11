@@ -24,19 +24,60 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/deep-learning/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yujie-he.github.io/tags/featured/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yujie-he.github.io/tags/in-progress/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/machine-vision/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/neural-rendering/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/2022-plr-neural-rendering/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/project/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/semantic-segmentation/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/tags/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yujie-he.github.io/</loc>
+    <lastmod>2022-06-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,20 +88,8 @@
   </url>
   
   <url>
-    <loc>https://yujie-he.github.io/tags/machine-vision/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://yujie-he.github.io/project/2021-qolo-pedestrian-analysis/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/project/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -71,18 +100,6 @@
   
   <url>
     <loc>https://yujie-he.github.io/tags/robotics/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/tags/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yujie-he.github.io/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

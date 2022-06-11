@@ -6,8 +6,8 @@
     <description>Recent content in Tags on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Apr 02, 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Jun 11, 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Deep Learning</title>
       <link>https://yujie-he.github.io/tags/deep-learning/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/deep-learning/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Featured💡</title>
       <link>https://yujie-he.github.io/tags/featured/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/featured/</guid>
       <description></description>
@@ -33,9 +33,36 @@
     <item>
       <title>In Progress⚡</title>
       <link>https://yujie-he.github.io/tags/in-progress/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/in-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Vision</title>
+      <link>https://yujie-he.github.io/tags/machine-vision/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural rendering</title>
+      <link>https://yujie-he.github.io/tags/neural-rendering/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/neural-rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic segmentation</title>
+      <link>https://yujie-he.github.io/tags/semantic-segmentation/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/tags/semantic-segmentation/</guid>
       <description></description>
     </item>
     
@@ -45,15 +72,6 @@
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://yujie-he.github.io/tags/lidar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Vision</title>
-      <link>https://yujie-he.github.io/tags/machine-vision/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yujie-he.github.io/tags/machine-vision/</guid>
       <description></description>
     </item>
     

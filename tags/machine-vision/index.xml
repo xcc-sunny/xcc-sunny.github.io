@@ -6,11 +6,48 @@
     <description>Recent content in Machine Vision on YUJIE HE</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>Last updated on Apr 02, 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>Last updated on Jun 11, 2022 · Yujie HE &amp;copy; 2019 - 2022</copyright>
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://yujie-he.github.io/tags/machine-vision/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neural rendering for semantic segmentation</title>
+      <link>https://yujie-he.github.io/project/2022-plr-neural-rendering/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yujie-he.github.io/project/2022-plr-neural-rendering/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Course project&lt;/strong&gt; in &lt;a href=&#34;http://www.vvz.ethz.ch/lerneinheitPre.do?semkez=2022S&amp;amp;lerneinheitId=160678&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;151-0634-00L  Perception and Learning for Robotics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Members: &lt;a href=&#34;https://github.com/BoSmallEar&#34; target=&#34;_blank&#34;&gt;Zhizheng Liu&lt;/a&gt; and me&lt;/p&gt;
+
+&lt;p&gt;Lecturer:  &lt;a href=&#34;https://n.ethz.ch/~cesarc/&#34; target=&#34;_blank&#34;&gt;Dr. C. D. Cadena Lerma&lt;/a&gt; and &lt;a href=&#34;https://jenjenchung.github.io/anthropomorphic/&#34; target=&#34;_blank&#34;&gt;Dr. Jen Jen Chung&lt;/a&gt; from &lt;a href=&#34;https://asl.ethz.ch/&#34; target=&#34;_blank&#34;&gt;Autonomous Systems Laboratory&lt;/a&gt;, ETH Zurich&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;Semantic segmentation has been broadly applied in autonomous driving and other mobile applications, where trained networks are not usually updated during deployment.
+In contrast to other naive adaption methods like fine-tuning, &lt;strong&gt;continual learning&lt;/strong&gt; can boost the model&amp;rsquo;s &lt;strong&gt;adaption&lt;/strong&gt; to new environments while maintaining high &lt;strong&gt;generalization&lt;/strong&gt; ability. Especially, the experience replay strategy can strike a reasonable balance between new samples and distilling information in previously observed scenes by storing or generating new data. To generate new samples, recent advances in &lt;strong&gt;neural rendering&lt;/strong&gt; are applied to the generation of high quality new samples. In an extensive experimental evaluation on the &lt;strong&gt;ScanNet&lt;/strong&gt; dataset, our proposed pipeline combining semantic information has been shown to be effective in generating guaranteed view-consistency images and pseudo-labels within 10 minutes.
+Further, the continual learning pipeline has achieved successful adaptation to real-world indoor scenes. Our method increases the segmentation performance on average by about 6.0% compared to the fixed pre-trained neural network, while effectively retaining generalization capability on the previous training data.&lt;/p&gt;
+
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;320&#34; src=&#34;https://www.youtube.com/embed/u884IwvvuwA&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+
+&lt;p&gt;🚧 To be updated in &lt;a href=&#34;https://github.com/ethz-asl/nr_semantic_segmentation&#34; target=&#34;_blank&#34;&gt;ethz-asl/&lt;strong&gt;nr_semantic_segmentation&lt;/strong&gt;&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-modal pedestrian behavior analysis for Qolo robot</title>
